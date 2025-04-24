@@ -18,7 +18,7 @@
                         <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
                     {% endif %}
 
-                    {{ content }}
+                    {% include anchor_headings.html html=content anchorBody="#" %}
 
                     {%- if jekyll.environment != 'dev' and site.disqushandler -%}
                         {%- include disqus.html -%}

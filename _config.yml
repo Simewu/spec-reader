@@ -1,17 +1,19 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Web App for O-RAN Specification Reading
+longtitle:        Web App for O-RAN Specification Reading
+author:           Simeon Wuthier
+email:            mail@simewu.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Read O-RAN Alliance specifications in a GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://simewu.github.io'
+baseurl:          '/spec-reader'
 rss:              RSS
+download_url:     'https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents'
+github_page_url:  'https://github.com/Simewu/spec-reader/blob/main/pages'
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
@@ -22,7 +24,7 @@ toc:
   h_max:   3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/gitbook/images/favicon.ico
+favicon_path:     /assets/gitbook/images/favicon.svg
 
 # markdown render engine.
 markdown:         kramdown
@@ -47,7 +49,11 @@ permalink:                /:categories/:year-:month-:day-:title:output_ext
 # disqushandler:            sighingnow
 
 exclude:
-  - _drafts
+  - README.md
+  - documents
+  - pages
+  - vendor
+  - assets/oran_specifications_combined.md
 
 collections:
   pages:
@@ -58,7 +64,6 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
   - pages
   - others
 

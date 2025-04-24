@@ -1,0 +1,13 @@
+In a browser, navigate to the O-RAN specifications page:
+
+https://specifications.o-ran.org/
+
+In the developer console (F12), run the following to download all the specifications, storing them in the browser's default download directory.
+
+let elements = document.getElementsByClassName('file-title'); for (let i in elements) { let e = elements[i], container = e.parentElement.parentElement.childNodes; let button = container[container.length - 1].childNodes[0]; setTimeout(function() { button.click(); }, 2000 * i); }
+
+Count how many documents should have been downloaded with:
+
+let counter = 0, elements = document.getElementsByClassName('file-title'); for (let i in elements) { try { let e = elements[i], container = e.parentElement.parentElement.childNodes; let button = container[container.length - 1].childNodes[0]; counter++; }catch(e){} } console.log(counter);
+
+Save the documents into the documents/ directory. For all PDF files, for best results, replace them with DOCX files using batch conversion in Adobe Acrobat Pro.

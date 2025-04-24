@@ -1,235 +1,193 @@
+# Web App for O-RAN Specification Reading
+
+This application is hosted at [simewu.github.io/spec-reader](https://simewu.github.io/spec-reader), and enables the browsing of the latest publicly-available O-RAN Alliance specifications converted into GitHub Markdown. Additionally, the links below enable browsing the specification documents without having to leave GitHub.
+
+- Specifications last updated: `4/24/2025`
+
+## TIFG: Test and Integration Focus Group
+
+- [O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx.md](./pages/O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx.md)
+- [O-RAN.TIFG.Cert-Badge.1-R004-v10.00.xlsx.md](./pages/O-RAN.TIFG.Cert-Badge.1-R004-v10.00.xlsx.md)
+- [O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx.md](./pages/O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx.md)
+- [O-RAN.TIFG.CGofOTIC.0-v06.00.docx.md](./pages/O-RAN.TIFG.CGofOTIC.0-v06.00.docx.md)
+- [O-RAN.TIFG.E2E-Test.0-R003-v06.00.docx.md](./pages/O-RAN.TIFG.E2E-Test.0-R003-v06.00.docx.md)
+- [O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx.md](./pages/O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx.md)
+
+## WG11: Security Work Group
+
+- [O-RAN.SFG.Non-RT-RIC-Security-TR-v01.00.docx.md](./pages/O-RAN.SFG.Non-RT-RIC-Security-TR-v01.00.docx.md)
+- [O-RAN.SuFG.CE-v01.00.docx.md](./pages/O-RAN.SuFG.CE-v01.00.docx.md)
+- [O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx.md](./pages/O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx.md)
+- [O-RAN.WG11.Certficate-Management-Framework-TR.0-R004-v04.00.docx.md](./pages/O-RAN.WG11.Certficate-Management-Framework-TR.0-R004-v04.00.docx.md)
+- [O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx.md](./pages/O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx.md)
+- [O-RAN.WG11.O-CLOUD-Security-Analysis-TR.O-R004-v07.00.docx.md](./pages/O-RAN.WG11.O-CLOUD-Security-Analysis-TR.O-R004-v07.00.docx.md)
+- [O-RAN.WG11.Security-Log-Management-TR.O-R004-v05.00.docx.md](./pages/O-RAN.WG11.Security-Log-Management-TR.O-R004-v05.00.docx.md)
+- [O-RAN.WG11.Security-Near-RT-RIC-xApps-TR.0-R003-v05.00.docx.md](./pages/O-RAN.WG11.Security-Near-RT-RIC-xApps-TR.0-R003-v05.00.docx.md)
+- [O-RAN-WG11-SharedORU-Security-Analysis-TR.0-R004-v06.00.docx.md](./pages/O-RAN-WG11-SharedORU-Security-Analysis-TR.0-R004-v06.00.docx.md)
+- [O-RAN.WG11.TR.AIML-Security-Analysis.0-R004-v03.00.docx.md](./pages/O-RAN.WG11.TR.AIML-Security-Analysis.0-R004-v03.00.docx.md)
+- [O-RAN.WG11.TR.Fronthaul-CUSPlane-Security.0-R004-v03.00.docx.md](./pages/O-RAN.WG11.TR.Fronthaul-CUSPlane-Security.0-R004-v03.00.docx.md)
+- [O-RAN.WG11.TR.OAuth2.0-Security.O-R004-v04.00.docx.md](./pages/O-RAN.WG11.TR.OAuth2.0-Security.O-R004-v04.00.docx.md)
+- [O-RAN.WG11.TR.O-RUCUM-R004-v04.00.docx.md](./pages/O-RAN.WG11.TR.O-RUCUM-R004-v04.00.docx.md)
+- [O-RAN.WG11.TR.SMO-Security-Analysis.0-R004-v06.00.docx.md](./pages/O-RAN.WG11.TR.SMO-Security-Analysis.0-R004-v06.00.docx.md)
+- [O-RAN.WG11.TR.Threat-Modeling.O-R004-v05.00.docx.md](./pages/O-RAN.WG11.TR.Threat-Modeling.O-R004-v05.00.docx.md)
+- [O-RAN.WG11.TR.ZTA-R004-v02.00.docx.md](./pages/O-RAN.WG11.TR.ZTA-R004-v02.00.docx.md)
+- [O-RAN.WG11.TS.Security-Protocols-Specification.0-R004-v11.00.docx.md](./pages/O-RAN.WG11.TS.Security-Protocols-Specification.0-R004-v11.00.docx.md)
+- [O-RAN.WG11.TS.Security-Requirements-Specification.0-R004-v11.00.docx.md](./pages/O-RAN.WG11.TS.Security-Requirements-Specification.0-R004-v11.00.docx.md)
+- [O-RAN.WG11.TS.Security-Test-Specifications-R004-v09.00.docx.md](./pages/O-RAN.WG11.TS.Security-Test-Specifications-R004-v09.00.docx.md)
+
+## WG10: OAM Work Group
+
+- [O-RAN.WG10.TE&IV-UCR.0-R004-v03.00.docx.md](./pages/O-RAN.WG10.TE%26IV-UCR.0-R004-v03.00.docx.md)
+- [O-RAN.WG10.TS.Information Model and Data Models.0-R004-v10.00.docx.md](./pages/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.0-R004-v10.00.docx.md)
+- [O-RAN.WG10.TS.Information Model and Data Models.1-R004-v10.00.zip.md](./pages/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.1-R004-v10.00.zip.md)
+- [O-RAN.WG10.TS.O1-Interface.0-R004-v15.00.docx.md](./pages/O-RAN.WG10.TS.O1-Interface.0-R004-v15.00.docx.md)
+- [O-RAN.WG10.TS.O1NRM.0-R004-v02.00.docx.md](./pages/O-RAN.WG10.TS.O1NRM.0-R004-v02.00.docx.md)
+- [O-RAN.WG10.TS.O1NRM.1-R004-v02.00.zip.md](./pages/O-RAN.WG10.TS.O1NRM.1-R004-v02.00.zip.md)
+- [O-RAN.WG10.TS.O1PMeas-R004-v02.00.docx.md](./pages/O-RAN.WG10.TS.O1PMeas-R004-v02.00.docx.md)
+- [O-RAN.WG10.TS.OAM-Architecture-R004-v14.00.docx.md](./pages/O-RAN.WG10.TS.OAM-Architecture-R004-v14.00.docx.md)
+- [O-RAN.WG10.TS.OnboardingSMOSGAP.0-R004-v01.00.docx.md](./pages/O-RAN.WG10.TS.OnboardingSMOSGAP.0-R004-v01.00.docx.md)
+- [O-RAN.WG10.TS.TE&IV-API.0-R004-v01.00.docx.md](./pages/O-RAN.WG10.TS.TE%26IV-API.0-R004-v01.00.docx.md)
+- [O-RAN.WG10.TS.TE&IV-CIMI.0-R004-v03.00.docx.md](./pages/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx.md)
+- [O-RAN.WG10.TS.TE&IV-DM.0-R004-v01.00.docx.md](./pages/O-RAN.WG10.TS.TE%26IV-DM.0-R004-v01.00.docx.md)
+
+## WG9: Open X-haul Transport Work Group
+
+- [O-RAN-WG9.WDM.0-R004-v05.00.docx.md](./pages/O-RAN-WG9.WDM.0-R004-v05.00.docx.md)
+- [O-RAN.WG9.XPSAAS.0-R003-v08.00.docx.md](./pages/O-RAN.WG9.XPSAAS.0-R003-v08.00.docx.md)
+- [O-RAN.WG9.XTRP-MGT.0-R004-v09.00.docx.md](./pages/O-RAN.WG9.XTRP-MGT.0-R004-v09.00.docx.md)
+- [O-RAN.WG9.XTRP-REQ-v01.00.docx.md](./pages/O-RAN.WG9.XTRP-REQ-v01.00.docx.md)
+- [O-RAN.WG9.XTRP-SYN.0-R004-v06.00.docx.md](./pages/O-RAN.WG9.XTRP-SYN.0-R004-v06.00.docx.md)
+- [O-RAN.WG9.XTRP-SYN.1-R004-v06.00_YANG.zip.md](./pages/O-RAN.WG9.XTRP-SYN.1-R004-v06.00_YANG.zip.md)
+- [O-RAN.WG9.XTRP-TST.0-R004-v05.00.docx.md](./pages/O-RAN.WG9.XTRP-TST.0-R004-v05.00.docx.md)
+
+## WG8: Stack Reference Design Work Group
+
+- [O-RAN.WG8.AAD.0-R004-v14.00.docx.md](./pages/O-RAN.WG8.AAD.0-R004-v14.00.docx.md)
+- [O-RAN.WG8.IOT.0-R004-v12.00.docx.md](./pages/O-RAN.WG8.IOT.0-R004-v12.00.docx.md)
+
+## WG7: The White-box Hardware Work Group
+
+- [O-RAN.WG7.DSC.0-v04.00.docx.md](./pages/O-RAN.WG7.DSC.0-v04.00.docx.md)
+- [O-RAN.WG7.EMC-HAR-HRD.0-R003-v01.00.docx.md](./pages/O-RAN.WG7.EMC-HAR-HRD.0-R003-v01.00.docx.md)
+- [O-RAN.WG7.FHGW-HRD.0-v02.00.docx.md](./pages/O-RAN.WG7.FHGW-HRD.0-v02.00.docx.md)
+- [O-RAN.WG7.IPC-HAR.0-v03.00.docx.md](./pages/O-RAN.WG7.IPC-HAR.0-v03.00.docx.md)
+- [O-RAN.WG7.IPC-HRD-Opt6-v02.00.docx.md](./pages/O-RAN.WG7.IPC-HRD-Opt6-v02.00.docx.md)
+- [O-RAN.WG7.IPC-HRD-Opt7-2.0-v03.00.docx.md](./pages/O-RAN.WG7.IPC-HRD-Opt7-2.0-v03.00.docx.md)
+- [O-RAN.WG7.IPC-HRD-Opt8.0-v03.00.docx.md](./pages/O-RAN.WG7.IPC-HRD-Opt8.0-v03.00.docx.md)
+- [O-RAN.WG7.IPC-TEST.0-v01.docx.md](./pages/O-RAN.WG7.IPC-TEST.0-v01.docx.md)
+- [O-RAN.WG7.NES.0-R003-v02.00.docx.md](./pages/O-RAN.WG7.NES.0-R003-v02.00.docx.md)
+- [O-RAN.WG7.OMAC-HAR.0-v05.00.docx.md](./pages/O-RAN.WG7.OMAC-HAR.0-v05.00.docx.md)
+- [O-RAN.WG7.OMAC-HRD.0-R003-v03.00.docx.md](./pages/O-RAN.WG7.OMAC-HRD.0-R003-v03.00.docx.md)
+- [O-RAN.WG7.OMC-HAR.0-v01.00.docx.md](./pages/O-RAN.WG7.OMC-HAR.0-v01.00.docx.md)
+- [O-RAN.WG7.OMC-HRD-Opt7-2-R003-v04.00.docx.md](./pages/O-RAN.WG7.OMC-HRD-Opt7-2-R003-v04.00.docx.md)
+
+## WG6: The Cloudification and Orchestration Work Group
+
+- [O-RAN.WG6.AAL-Common-API-R003-v08.00.docx.md](./pages/O-RAN.WG6.AAL-Common-API-R003-v08.00.docx.md)
+- [O-RAN.WG6.AAL FEC.R004-v04.00.docx.md](./pages/O-RAN.WG6.AAL%20FEC.R004-v04.00.docx.md)
+- [O-RAN.WG6.AAL-GAnP-R004-v10.00.docx.md](./pages/O-RAN.WG6.AAL-GAnP-R004-v10.00.docx.md)
+- [O-RAN.WG6.AAL-GAnP-R004-v11.00.docx.md](./pages/O-RAN.WG6.AAL-GAnP-R004-v11.00.docx.md)
+- [O-RAN.WG6.AAL-HI_PHY-R004-v07.00.docx.md](./pages/O-RAN.WG6.AAL-HI_PHY-R004-v07.00.docx.md)
+- [O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01.docx.md](./pages/O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01.docx.md)
+- [O-RAN-WG6.AppLCM-Deployment-R003-v02.00.docx.md](./pages/O-RAN-WG6.AppLCM-Deployment-R003-v02.00.docx.md)
+- [O-RAN.WG6.ASD-R003-v01.00.docx.md](./pages/O-RAN.WG6.ASD-R003-v01.00.docx.md)
+- [O-RAN.WG6.CADS-v08.01.docx.md](./pages/O-RAN.WG6.CADS-v08.01.docx.md)
+- [O-RAN.WG6.CLOUD-REF-v02.00.docx.md](./pages/O-RAN.WG6.CLOUD-REF-v02.00.docx.md)
+- [O-RAN.WG6.O2DMS-INTERFACE-ETSI-NFV-PROFILE-R004-v08.00.docx.md](./pages/O-RAN.WG6.O2DMS-INTERFACE-ETSI-NFV-PROFILE-R004-v08.00.docx.md)
+- [O-RAN.WG6.O2DMS-INTERFACE-K8S-PROFILE-R003-v05.00.docx.md](./pages/O-RAN.WG6.O2DMS-INTERFACE-K8S-PROFILE-R003-v05.00.docx.md)
+- [O-RAN.WG6.O2-GAnP-v01.02.docx.md](./pages/O-RAN.WG6.O2-GAnP-v01.02.docx.md)
+- [O-RAN.WG6.O2-IMS-K8s-R003-v01.00.docx.md](./pages/O-RAN.WG6.O2-IMS-K8s-R003-v01.00.docx.md)
+- [O-RAN.WG6.O-Cloud-ES-v02.00.docx.md](./pages/O-RAN.WG6.O-Cloud-ES-v02.00.docx.md)
+- [O-RAN.WG6.O-CLOUD-IOT-R004-v02.00.docx.md](./pages/O-RAN.WG6.O-CLOUD-IOT-R004-v02.00.docx.md)
+- [O-RAN.WG6.O-Cloud Notification API-v04.00.docx.md](./pages/O-RAN.WG6.O-Cloud%20Notification%20API-v04.00.docx.md)
+- [O-RAN.WG6.ORCH-USE-CASES-R004-v12.00.docx.md](./pages/O-RAN.WG6.ORCH-USE-CASES-R004-v12.00.docx.md)
+- [O-RAN.WG6.TS.O2-GA&P-R004-v08.01.docx.md](./pages/O-RAN.WG6.TS.O2-GA%26P-R004-v08.01.docx.md)
+- [O-RAN.WG6.TS.O2IMS-INTERFACE-R004-v08.00.docx.md](./pages/O-RAN.WG6.TS.O2IMS-INTERFACE-R004-v08.00.docx.md)
+- [O-RAN.WG6.TS.O-CLOUD-IM.0-R004-v03.00.docx.md](./pages/O-RAN.WG6.TS.O-CLOUD-IM.0-R004-v03.00.docx.md)
+- [O-RAN.WG6.TS.O-CLOUD-INTF-CONF-R004-v04.01.docx.md](./pages/O-RAN.WG6.TS.O-CLOUD-INTF-CONF-R004-v04.01.docx.md)
+
+## WG5: The Open F1/W1/E1/X2/Xn Interface Work Group
+
+- [O-RAN.WG5.O-CU-O1.0-R003-v07.00.docx.md](./pages/O-RAN.WG5.O-CU-O1.0-R003-v07.00.docx.md)
+- [O-RAN.WG5.O-CU-O1.1-R003-v07.00.zip.md](./pages/O-RAN.WG5.O-CU-O1.1-R003-v07.00.zip.md)
+- [O-RAN.WG5.O-DU-O1.0-R003-v09.00.docx.md](./pages/O-RAN.WG5.O-DU-O1.0-R003-v09.00.docx.md)
+- [O-RAN.WG5.O-DU-O1.1-R003-v09.00.zip.md](./pages/O-RAN.WG5.O-DU-O1.1-R003-v09.00.zip.md)
+- [O-RAN.WG5.O-DU-O1.2-R003-v09.00.xlsx.md](./pages/O-RAN.WG5.O-DU-O1.2-R003-v09.00.xlsx.md)
+- [O-RAN.WG5.Transport.0-v01.00.docx.md](./pages/O-RAN.WG5.Transport.0-v01.00.docx.md)
+- [O-RAN.WG5.TS.C.1-R004-v14.00.docx.md](./pages/O-RAN.WG5.TS.C.1-R004-v14.00.docx.md)
+- [O-RAN.WG5.TS.IOT.0-R004-v12.00.docx.md](./pages/O-RAN.WG5.TS.IOT.0-R004-v12.00.docx.md)
+- [O-RAN.WG5.U.0-R003-v07.00.docx.md](./pages/O-RAN.WG5.U.0-R003-v07.00.docx.md)
+
+## WG4: The Open Fronthaul Interfaces Work Group
+
+- [O-RAN.WG4.CTI-TCP.0-R003-v04.00.docx.md](./pages/O-RAN.WG4.CTI-TCP.0-R003-v04.00.docx.md)
+- [O-RAN.WG4.CTI-TMP.0-R003-v04.00.docx.md](./pages/O-RAN.WG4.CTI-TMP.0-R003-v04.00.docx.md)
+- [O-RAN.WG4.CTI-TMP-YANG-v03.00.zip.md](./pages/O-RAN.WG4.CTI-TMP-YANG-v03.00.zip.md)
+- [O-RAN.WG4.IOT.0-R004-v12.00.docx.md](./pages/O-RAN.WG4.IOT.0-R004-v12.00.docx.md)
+- [O-RAN.WG4.TS.CONF.0-R004-v12.00.docx.md](./pages/O-RAN.WG4.TS.CONF.0-R004-v12.00.docx.md)
+- [O-RAN.WG4.TS.CUS.0-R004-v17.01.docx.md](./pages/O-RAN.WG4.TS.CUS.0-R004-v17.01.docx.md)
+- [O-RAN.WG4.TS.MP.0-R004-v17.01.docx.md](./pages/O-RAN.WG4.TS.MP.0-R004-v17.01.docx.md)
+- [O-RAN.WG4.TS.MP-YANGs-R004-v17.01.zip.md](./pages/O-RAN.WG4.TS.MP-YANGs-R004-v17.01.zip.md)
+
+## WG3: The Near-Real-Time RIC and E2 Interface Work Group
+
+- [O-RAN-WG3.E2SM-NI-v01.00.docx.md](./pages/O-RAN-WG3.E2SM-NI-v01.00.docx.md)
+- [O-RAN.WG3.E2TS-R003-v02.00.docx.md](./pages/O-RAN.WG3.E2TS-R003-v02.00.docx.md)
+- [O-RAN.WG3.O1-Interface-for-Near-RT-RIC-R003-v01.00.docx.md](./pages/O-RAN.WG3.O1-Interface-for-Near-RT-RIC-R003-v01.00.docx.md)
+- [O-RAN.WG3.RICAPI-R003-v02.00.docx.md](./pages/O-RAN.WG3.RICAPI-R003-v02.00.docx.md)
+- [O-RAN.WG3.TR.ConMit-R004-v01.00 .docx.md](./pages/O-RAN.WG3.TR.ConMit-R004-v01.00%20.docx.md)
+- [O-RAN.WG3.TS.E2AP-R004-v07.00.docx.md](./pages/O-RAN.WG3.TS.E2AP-R004-v07.00.docx.md)
+- [O-RAN.WG3.TS.E2GAP-R004-v07.00.docx.md](./pages/O-RAN.WG3.TS.E2GAP-R004-v07.00.docx.md)
+- [O-RAN.WG3.TS.E2SM-CCC-R004-v05.00.docx.md](./pages/O-RAN.WG3.TS.E2SM-CCC-R004-v05.00.docx.md)
+- [O-RAN.WG3.TS.E2SM-KPM-R004-v06.00.docx.md](./pages/O-RAN.WG3.TS.E2SM-KPM-R004-v06.00.docx.md)
+- [O-RAN.WG3.TS.E2SM-LLC-R004-v01.00.docx.md](./pages/O-RAN.WG3.TS.E2SM-LLC-R004-v01.00.docx.md)
+- [O-RAN.WG3.TS.E2SM-R004-v07.00.docx.md](./pages/O-RAN.WG3.TS.E2SM-R004-v07.00.docx.md)
+- [O-RAN.WG3.TS.E2SM-RC-R004-v07.00.docx.md](./pages/O-RAN.WG3.TS.E2SM-RC-R004-v07.00.docx.md)
+- [O-RAN.WG3.TS.RICARCH-R004-v07.00.docx.md](./pages/O-RAN.WG3.TS.RICARCH-R004-v07.00.docx.md)
+- [O-RAN.WG3.TS.UCR-R004-v08.00.docx.md](./pages/O-RAN.WG3.TS.UCR-R004-v08.00.docx.md)
+- [O-RAN.WG3.Y1AP-R004-v01.01.docx.md](./pages/O-RAN.WG3.Y1AP-R004-v01.01.docx.md)
+- [O-RAN.WG3.Y1GAP-R004-v01.01.docx.md](./pages/O-RAN.WG3.Y1GAP-R004-v01.01.docx.md)
+- [O-RAN.WG3.Y1TD-R004-v02.00.docx.md](./pages/O-RAN.WG3.Y1TD-R004-v02.00.docx.md)
+
+## WG2: The Non-Real-Time RAN Intelligent Controller and A1 Interface Work Group
+
+- [O-RAN.WG2.AIML-v01.03.docx.md](./pages/O-RAN.WG2.AIML-v01.03.docx.md)
+- [O-RAN.WG2.Non-RT-RIC-ARCH-R004-v06.00.docx.md](./pages/O-RAN.WG2.Non-RT-RIC-ARCH-R004-v06.00.docx.md)
+- [O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01.docx.md](./pages/O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01.docx.md)
+- [O-RAN.WG2.R1AP-v06.00.docx.md](./pages/O-RAN.WG2.R1AP-v06.00.docx.md)
+- [O-RAN.WG2.R1TP-v04.02.docx.md](./pages/O-RAN.WG2.R1TP-v04.02.docx.md)
+- [O-RAN.WG2.TS.A1AP-R004-v04.04.docx.md](./pages/O-RAN.WG2.TS.A1AP-R004-v04.04.docx.md)
+- [O-RAN.WG2.TS.A1GAP-R004-v05.00.docx.md](./pages/O-RAN.WG2.TS.A1GAP-R004-v05.00.docx.md)
+- [O-RAN.WG2.TS.A1TD-R004-v10.00.docx.md](./pages/O-RAN.WG2.TS.A1TD-R004-v10.00.docx.md)
+- [O-RAN.WG2.TS.A1TP-R004-v03.04.docx.md](./pages/O-RAN.WG2.TS.A1TP-R004-v03.04.docx.md)
+- [O-RAN.WG2.TS.A1TS-R004-v04.03.docx.md](./pages/O-RAN.WG2.TS.A1TS-R004-v04.03.docx.md)
+- [O-RAN.WG2.TS.A1UCR-R004-v02.00.docx.md](./pages/O-RAN.WG2.TS.A1UCR-R004-v02.00.docx.md)
+- [O-RAN.WG2.TS.R1AP-R004-v07.00.docx.md](./pages/O-RAN.WG2.TS.R1AP-R004-v07.00.docx.md)
+- [O-RAN.WG2.TS.R1GAP-R004-v10.00.docx.md](./pages/O-RAN.WG2.TS.R1GAP-R004-v10.00.docx.md)
+- [O-RAN.WG2.TS.R1TD-R004-v04.00.docx.md](./pages/O-RAN.WG2.TS.R1TD-R004-v04.00.docx.md)
+- [O-RAN.WG2.TS.R1TS-R004-v02.00.docx.md](./pages/O-RAN.WG2.TS.R1TS-R004-v02.00.docx.md)
+- [O-RAN.WG2.TS.R1UCR-R004-v09.00.docx.md](./pages/O-RAN.WG2.TS.R1UCR-R004-v09.00.docx.md)
+- [O-RAN.WG2.TS.Use-Case-Requirements-R004-v10.02.docx.md](./pages/O-RAN.WG2.TS.Use-Case-Requirements-R004-v10.02.docx.md)
+
+## WG1: Use Cases and Overall Architecture Work Group
+
+- [O-RAN-WG1-CCIN-TR-R004-v01.00.docx.md](./pages/O-RAN-WG1-CCIN-TR-R004-v01.00.docx.md)
+- [O-RAN.WG1.Information Model and Data Models-v01.00.docx.md](./pages/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx.md)
+- [O-RAN.WG1.mMIMO-Use-Cases-TR-v01.00.docx.md](./pages/O-RAN.WG1.mMIMO-Use-Cases-TR-v01.00.docx.md)
+- [O-RAN.WG1.Network-Energy-Savings-Technical-Report-R003-v02.00.docx.md](./pages/O-RAN.WG1.Network-Energy-Savings-Technical-Report-R003-v02.00.docx.md)
+- [O-RAN.WG1.O1-Interface.0-v04.00.docx.md](./pages/O-RAN.WG1.O1-Interface.0-v04.00.docx.md)
+- [O-RAN.WG1.OAM-Architecture-v04.00 .docx.md](./pages/O-RAN.WG1.OAM-Architecture-v04.00%20.docx.md)
+- [O-RAN.WG1.Study-on-O-RAN-Slicing-v02.00.docx.md](./pages/O-RAN.WG1.Study-on-O-RAN-Slicing-v02.00.docx.md)
+- [O-RAN.WG1.TR.Decoupled-SMO-Architecture-R004-v03.00.docx.md](./pages/O-RAN.WG1.TR.Decoupled-SMO-Architecture-R004-v03.00.docx.md)
+- [O-RAN.WG1.TR.SA-MVD-R004-v03.00.docx.md](./pages/O-RAN.WG1.TR.SA-MVD-R004-v03.00.docx.md)
+- [O-RAN.WG1.TR.SMO-INT-R004-v04.00.docx.md](./pages/O-RAN.WG1.TR.SMO-INT-R004-v04.00.docx.md)
+- [O-RAN.WG1.TR.Use-Cases-Analysis-Report-R004-v16.00.docx.md](./pages/O-RAN.WG1.TR.Use-Cases-Analysis-Report-R004-v16.00.docx.md)
+- [O-RAN.WG1.TS.OAD-R004-v13.00.docx.md](./pages/O-RAN.WG1.TS.OAD-R004-v13.00.docx.md)
+- [O-RAN.WG1.TS.Slicing-Architecture-R004-v14.00.docx.md](./pages/O-RAN.WG1.TS.Slicing-Architecture-R004-v14.00.docx.md)
+- [O-RAN.WG1.TS.Use-Cases-Detailed-Specification-R004-v16.00.docx.md](./pages/O-RAN.WG1.TS.Use-Cases-Detailed-Specification-R004-v16.00.docx.md)
+
 ---
-layout: home
-title: Jekyll Gitbook Theme
-permalink: /
----
 
-Make Jelly site have a GitBook look!
+### Combined Specifications for Automated Processing
 
-## Demo
-
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
-
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
-
-## Why Jekyll with GitBook
-
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
-
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
-
-## How to Get Started
-
-This theme can be used just as other [Jekyll themes][1] and support [remote theme][12],
-see [the official guide][13] as well.
-
-You can introduce this jekyll theme into your own site by either
-
-- [Fork][3] this repository and add your markdown posts to the `_posts` folder.
-- Use as a remote theme in your [`_config.yml`][14](just like what we do for this
-  site itself),
-
-```yaml
-remote_theme: sighingnow/jekyll-gitbook
-```
-
-### Deploy Locally with Jekyll Serve
-
-This theme can be ran locally using Ruby and Gemfiles.
-
-[Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) - GitHub
-
-## Full-text search
-
-The search functionality in jekyll-gitbook theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
-
-[https://sighingnow.github.io/jekyll-gitbook/?q=generated](https://sighingnow.github.io/jekyll-gitbook/?q=generated)
-
-## Code highlight
-
-The code highlight style is configurable the following entry in `_config.yaml`:
-
-```yaml
-syntax_highlighter_style: colorful
-```
-
-The default code highlight style is `colorful`, the full supported styles can be found from [the rouge repository][6]. Customized
-style can be added to [./assets/gitbook/rouge/](./assets/gitbook/rouge/).
-
-## How to generate TOC
-
-The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the *Contents* for the page.
-The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
-configuration in `_config.yml`:
-
-```yaml
-toc:
-    enabled: true
-    h_min: 1
-    h_max: 3
-```
-
-## Google Analytics, etc.
-
-The jekyll-gitboook theme supports embedding the [Google Analytics][7], [CNZZ][8] and [Application Insights][9] website analytical tools with the following
-minimal configuration in `_config.yaml`:
-
-```yaml
-tracker:
-  google_analytics: "<YOUR GOOGLE ANALYTICS KEY, e.g, UA-xxxxxx-x>"
-```
-
-Similarly, CNZZ can be added with the following configuration in `_config.yaml`
-
-```yaml
-tracker:
-  cnzz: "<YOUR CNZZ ANALYTICS KEY, e.g., xxxxxxxx>"
-```
-
-Application Insights can be added with the following configuration in `_config.yaml`
-
-```yaml
-tracker:
-  application_insights: "<YOUR APPLICATION INSIGHTS CONNECTION STRING>"
-```
-
-## Disqus comments
-
-[Disqus](https://disqus.com/) comments can be enabled by adding the following configuration in `_config.yaml`:
-
-```yaml
-disqushandler: "<YOUR DISQUS SHORTNAME>"
-```
-
-## Jekyll collections
-
-Jekyll's [collections][15] is supported to organize the pages in a more fine-grained manner, e.g.,
-
-```yaml
-collections:
-  pages:
-    output: true
-    sort_by: date
-    permalink: /:collection/:year-:month-:day-:title:output_ext
-  others:
-    output: true
-    sort_by: date
-    permalink: /:collection/:year-:month-:day-:title:output_ext
-```
-
-An optional `ordered_collections` key can be added to `_config.yaml` to control the order of collections in the sidebar:
-
-```yaml
-ordered_collections:
-  - posts
-  - pages
-  - others
-```
-
-If not specified, the order of collections would be decided by Jekyll. Note that the key `posts` is a special collection
-that indicates the `_posts` pages of Jekyll.
-
-## Extra StyleSheet or Javascript elements
-
-You can add extra CSS or JavaScript references using configuration collections:
-
-- extra_css: for additional style sheets. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-- extra_header_js: for additional scripts to be included in the `<head>` tag, after the `extra_css` has been added. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-- extra_footer_js: for additional scripts to be included at the end of the HTML document, just before the site tracking script. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-
-## Customizing font settings
-
-The fonts can be customized by modifying the `.book.font-family-0` and `.book.font-family-1` entry in [`./assets/gitbook/custom.css`][10],
-
-```css
-.book.font-family-0 {
-    font-family: Georgia, serif;
-}
-.book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-```
-
-## Tips, Warnings and Dangers blocks
-
-The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip }`, `{: .block-warning }`,
-`{: .block-danger }`) like that displayed in [the discord.js website][11]. The marker can be used like
-
-```markdown
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
-```
-
-Rendered page can be previewed from
-
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html)
-
-## Cover image inside pages
-
-The jekyll-gitbook theme supports adding a cover image to a specific page by adding
-a `cover` field to the page metadata:
-
-```diff
-  ---
-  title: Page with cover image
-  author: Tao He
-  date: 2022-05-24
-  category: Jekyll
-  layout: post
-+ cover: /assets/jekyll-gitbook/dinosaur.gif
-  ---
-```
-
-The effect can be previewed from
-
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
-
-## Diagrams with mermaid.js
-
-This jekyll-theme supports [mermaid.js](https://mermaid.js.org/) to render diagrams
-in markdown.
-
-To enable the mermaid support, you need to set `mermaid: true` in the front matter
-of your post.
-
-```markdown
----
-mermaid: true
----
-```
-
-The example can be previewed from
-
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2023-08-31-mermaid.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2023-08-31-mermaid.html)
-
-## License
-
-This work is open sourced under the Apache License, Version 2.0.
-
-Copyright 2019 Tao He.
-
-[1]: https://pages.github.com
-[2]: https://pages.github.com/themes
-[3]: https://github.com/sighingnow/jekyll-gitbook/fork
-[4]: https://github.com/allejo/jekyll-toc
-[5]: https://github.com/gitbook-plugins/gitbook-plugin-search-pro
-[6]: https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes
-[7]: https://analytics.google.com/analytics/web/
-[8]: https://www.cnzz.com/
-[9]: https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
-[10]: https://github.com/sighingnow/jekyll-gitbook/blob/master/gitbook/custom.css
-[11]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
-[12]: https://rubygems.org/gems/jekyll-remote-theme
-[13]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-[14]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
-[15]: https://jekyllrb.com/docs/collections/
+The following document combines all specifications to a single file for automated processing: [oran_specifications_combined.md](./assets/oran_specifications_combined.md).
