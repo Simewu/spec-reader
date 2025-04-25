@@ -1,6 +1,6 @@
 ## O-RAN.WG11.Security-Log-Management-TR.O-R004-v05.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.Security-Log-Management-TR.O-R004-v05.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.Security-Log-Management-TR.O-R004-v05.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.Security-Log-Management-TR.O-R004-v05.00.docx).
 
@@ -2011,6 +2011,6 @@ Figure 8-1 An example Security Log Management Schema
 | 22/11/2023 | V04.00 | Version 4 of the Technical Report |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.Security-Log-Management-TR.O-R004-v05.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.Security-Log-Management-TR.O-R004-v05.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.Security-Log-Management-TR.O-R004-v05.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG11.TS.Security-Protocols-Specification.0-R004-v11.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TS.Security-Protocols-Specification.0-R004-v11.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TS.Security-Protocols-Specification.0-R004-v11.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TS.Security-Protocols-Specification.0-R004-v11.00.docx).
 
@@ -1260,6 +1260,6 @@ enum:
 | 2021.04.01 | 01.00 | Initial version of the document with requirements for TLS and SSH.  Published as Final version 01.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TS.Security-Protocols-Specification.0-R004-v11.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TS.Security-Protocols-Specification.0-R004-v11.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TS.Security-Protocols-Specification.0-R004-v11.00.docx).

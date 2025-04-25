@@ -1,6 +1,6 @@
 ## O-RAN.WG10.TE&IV-UCR.0-R004-v03.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TE%26IV-UCR.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TE%26IV-UCR.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TE&IV-UCR.0-R004-v03.00.docx).
 
@@ -985,7 +985,7 @@ The transitioning across the above status values and corresponding actions are s
 |  |  |  |
 | --- | --- | --- |
 | Date | Revision | Description |
-| 2023.03.09 | 01.00 | Incorporate approved CRs : ERI-2022.09.22-WG10-ERI-021-Terminology-v03 , NEC-2022-09-10-.WG10-CR-0001-Inventory\_ORAN\_provisioning\_usecase\_v06, NEC-2022-12-08-.WG10-CR-0002-  Inventory\_ORAN\_Network\_Planning\_usecase\_v08, NEC-2023-01-26-.WG10-CR- 0003-Inventory\_Functional\_Requirements\_v02 ,NEC-2023-02-09-.WG10-CR-0003- ORAN\_TAI\_Scope\_v01, NEC-2023-02-23-.WG10-CR-0005-  ORAN\_Inventory\_EN\_Resolution\_v03 , NEC-2023-02-28-.WG10-CR-0006- ORAN\_Inventory\_EN\_Resolution\_2\_v02, ERI-2023.03.03-WG10-ERI-029- Functional-Requirement-v03, ERI-2023.01.27-WG10-CR-027-use-case-Topology- based-alarm-correlation-v04, ERI-2023.02.15-WG10-CR-028-use-case-R1 Alarm query using TE&IV Services-v04 |
+| 2023.03.09 | 01.00 | Incorporate approved CRs : ERI-2022.09.22-WG10-ERI-021-Terminology-v03 , NEC-2022-09-10-.WG10-CR-0001-Inventory\_ORAN\_provisioning\_usecase\_v06, NEC-2022-12-08-.WG10-CR-0002-  Inventory\_ORAN\_Network\_Planning\_usecase\_v08, NEC-2023-01-26-.WG10-CR- 0003-Inventory\_Functional\_Requirements\_v02 ,NEC-2023-02-09-.WG10-CR-0003- ORAN\_TAI\_Scope\_v01, NEC-2023-02-23-.WG10-CR-0005-  ORAN\_Inventory\_EN\_Resolution\_v03 , NEC-2023-02-28-.WG10-CR-0006- ORAN\_Inventory\_EN\_Resolution\_2\_v02, ERI-2023.03.02-WG10-ERI-029- Functional-Requirement-v03, ERI-2023.01.27-WG10-CR-027-use-case-Topology- based-alarm-correlation-v04, ERI-2023.02.15-WG10-CR-028-use-case-R1 Alarm query using TE&IV Services-v04 |
 | 2023.03.13 | 01.00 | Address comments from WG10 review |
 | 2023.05.04 | 01.00.01 | Implemented approved CRs for July train: ERI-2023.03.16-WG10-CR-030-use-case- NF\_Deployment\_Homing\_v06, NEC-2023-03-30-WG10-CR-0007- Inventory\_Functional\_Requirements\_v03, NEC-2023-04-13-WG10-CR-0008- Inventory\_ORAN\_NF\_Termination\_usecase\_v01 |
 | 2023.05.11 | 01.00.02 | Updated Table of Contents, Included CR version |
@@ -997,6 +997,6 @@ The transitioning across the above status values and corresponding actions are s
 | 2024.07.15 | 03.00 | Addressed WG10 review comments. Used Atlassian versioning to track revisions on the captured comments. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TE%26IV-UCR.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TE%26IV-UCR.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TE&IV-UCR.0-R004-v03.00.docx).

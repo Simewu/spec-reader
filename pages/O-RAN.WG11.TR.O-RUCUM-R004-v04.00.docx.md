@@ -1,6 +1,6 @@
 ## O-RAN.WG11.TR.O-RUCUM-R004-v04.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TR.O-RUCUM-R004-v04.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TR.O-RUCUM-R004-v04.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TR.O-RUCUM-R004-v04.00.docx).
 
@@ -562,6 +562,6 @@ Table 7.1-1 Key Issue Solution mapping for O-RU Centralized User Management
 | 2024.12.03 | R004-v04.00 | Final version for November release 2024 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TR.O-RUCUM-R004-v04.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TR.O-RUCUM-R004-v04.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TR.O-RUCUM-R004-v04.00.docx).

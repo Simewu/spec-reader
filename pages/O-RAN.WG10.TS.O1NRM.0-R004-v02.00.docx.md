@@ -1,6 +1,6 @@
 ## O-RAN.WG10.TS.O1NRM.0-R004-v02.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.O1NRM.0-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.O1NRM.0-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.O1NRM.0-R004-v02.00.docx).
 
@@ -571,6 +571,6 @@ This clause presents a list of notifications, defined in 3GPP TS 28.532 [10] and
 | 2024.12.06 | 02.00 | Inclusion of CRs:   * Add references to the Clause 5.5 "Common notifications" for applicable IOCs * Change the cardinality to allow a cell to exist without an instance of RRMPolicyRBAlloc * Various updates to references as needed * Various updates to fonts etc * Delete all import related notes * Adding requirements to follow 3GPP TS 32.160 clause 5.1 * Adding new attribte "numberOfPRBs" with its definition * Change 3GPP references boiler plate text to Rel 18. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.O1NRM.0-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.O1NRM.0-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.O1NRM.0-R004-v02.00.docx).

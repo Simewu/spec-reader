@@ -4,19 +4,9 @@ This application is hosted at [simewu.github.io/spec-reader](https://simewu.gith
 
 - Specifications last updated: `4/24/2025`
 
-## TIFG: Test and Integration Focus Group
-
-- [O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx.md](./pages/O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx.md)
-- [O-RAN.TIFG.Cert-Badge.1-R004-v10.00.xlsx.md](./pages/O-RAN.TIFG.Cert-Badge.1-R004-v10.00.xlsx.md)
-- [O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx.md](./pages/O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx.md)
-- [O-RAN.TIFG.CGofOTIC.0-v06.00.docx.md](./pages/O-RAN.TIFG.CGofOTIC.0-v06.00.docx.md)
-- [O-RAN.TIFG.E2E-Test.0-R003-v06.00.docx.md](./pages/O-RAN.TIFG.E2E-Test.0-R003-v06.00.docx.md)
-- [O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx.md](./pages/O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx.md)
-
 ## WG11: Security Work Group
 
 - [O-RAN.SFG.Non-RT-RIC-Security-TR-v01.00.docx.md](./pages/O-RAN.SFG.Non-RT-RIC-Security-TR-v01.00.docx.md)
-- [O-RAN.SuFG.CE-v01.00.docx.md](./pages/O-RAN.SuFG.CE-v01.00.docx.md)
 - [O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx.md](./pages/O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx.md)
 - [O-RAN.WG11.Certficate-Management-Framework-TR.0-R004-v04.00.docx.md](./pages/O-RAN.WG11.Certficate-Management-Framework-TR.0-R004-v04.00.docx.md)
 - [O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx.md](./pages/O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx.md)
@@ -185,6 +175,19 @@ This application is hosted at [simewu.github.io/spec-reader](https://simewu.gith
 - [O-RAN.WG1.TS.OAD-R004-v13.00.docx.md](./pages/O-RAN.WG1.TS.OAD-R004-v13.00.docx.md)
 - [O-RAN.WG1.TS.Slicing-Architecture-R004-v14.00.docx.md](./pages/O-RAN.WG1.TS.Slicing-Architecture-R004-v14.00.docx.md)
 - [O-RAN.WG1.TS.Use-Cases-Detailed-Specification-R004-v16.00.docx.md](./pages/O-RAN.WG1.TS.Use-Cases-Detailed-Specification-R004-v16.00.docx.md)
+
+## TIFG: Test and Integration Focus Group
+
+- [O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx.md](./pages/O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx.md)
+- [O-RAN.TIFG.Cert-Badge.1-R004-v10.00.xlsx.md](./pages/O-RAN.TIFG.Cert-Badge.1-R004-v10.00.xlsx.md)
+- [O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx.md](./pages/O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx.md)
+- [O-RAN.TIFG.CGofOTIC.0-v06.00.docx.md](./pages/O-RAN.TIFG.CGofOTIC.0-v06.00.docx.md)
+- [O-RAN.TIFG.E2E-Test.0-R003-v06.00.docx.md](./pages/O-RAN.TIFG.E2E-Test.0-R003-v06.00.docx.md)
+- [O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx.md](./pages/O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx.md)
+
+## SuFG: Sustainability Focus Group
+
+- [O-RAN.SuFG.CE-v01.00.docx.md](./pages/O-RAN.SuFG.CE-v01.00.docx.md)
 
 ---
 

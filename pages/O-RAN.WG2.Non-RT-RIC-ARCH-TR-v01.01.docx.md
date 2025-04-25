@@ -1,6 +1,6 @@
 ## O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01.docx).
 
@@ -33,7 +33,7 @@ Buschkauler Weg 27, 53347 Alfter, Germany Register of Associations, Bonn VR 1123
 | **Date** | **Revision** | **Author** | **Description** |
 | 2020.04.10 | 01.00.00 | CMCC, Intel | Document skeleton |
 | 2020.05.07 | 01.00.01 | Intel, CMCC | Addressed comments from email discussion  Captured agreements made in WG2 weekly meeting on May 07th, 2020 |
-| 2020.06.17 | 01.00.02 | Intel, CMCC | Following three CRs are endorsed  *ATT.AO-2020.05.05-WG2-CR-002-RAPPS-INTF-Non-RT-RIC-*  *v03.docx*  *INT.AO-2020.06.11-WG2-CR-0001-Non-RT RIC Functional*  *Architecture Diagram-v05.docx*  *INT.AO-2020.06.03-WG2-CR-0002-Skeleton update-v01.docx* |
+| 2020.06.17 | 01.00.02 | Intel, CMCC | Following three CRs are endorsed  *ATT.AO-2020.05.05-WG2-CR-002-RAPPS-INTF-Non-RT-RIC-*  *v03.docx*  *INT.AO-2020.06.10-WG2-CR-0001-Non-RT RIC Functional*  *Architecture Diagram-v05.docx*  *INT.AO-2020.06.03-WG2-CR-0002-Skeleton update-v01.docx* |
 | 2020.10.29 | 01.00.03 | Intel, CMCC | Following seven CRs are endorsed  *SAM.AO-2020.07.23-WG2-CR-0002-Non-RT-RIC-ARCH-TR-*  *v02.docx*  *INT.AO-2020.10.01-WG2-CR-0005-A1 termination and funtions- v03.docx*  *ATT.AO-2020.07.22-WG2-CR-003-R1-Intf-Reqts-v15.docx*  *SAM.AO-2020.10.21-WG2-CR-0003-Non-RT-RIC-ARCH-TR-*  *v02.docx*  *INT.AO-2020.10.21-WG2-CR-0008-ML training host and model repository-v03.docx*  *INT.AO-2020.10.29-WG2-CR-0009-Clean up-v01.docx*  *NOK-2020.10.28-WG2-CR-0001-Non-RT-RIC Functional*  *Architecture Scope-v02.docx* |
 | 2020.10.30 | 01.00.04 | Intel, CMCC | Removed Annex A: Deployment Scenarios Corrected some cross references |
 | 2020.11.02 | 01.00.05 | CMCC, Intel | Following CR is endorsed  *CMCC.AO-2020.10.15-WG2-CR-0003-Non-RT-RIC-ARCH-TR-*  *v03.docx*  Editorial updates with removing the editor notes. |
@@ -2475,6 +2475,6 @@ End Note End
 21. force and effect.
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG7.OMAC-HRD.0-R003-v03.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG7/O-RAN.WG7.OMAC-HRD.0-R003-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG7/O-RAN.WG7.OMAC-HRD.0-R003-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG7.OMAC-HRD.0-R003-v03.00.docx).
 
@@ -3559,6 +3559,6 @@ No of transceiver chains
 6
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG7/O-RAN.WG7.OMAC-HRD.0-R003-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG7/O-RAN.WG7.OMAC-HRD.0-R003-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG7.OMAC-HRD.0-R003-v03.00.docx).

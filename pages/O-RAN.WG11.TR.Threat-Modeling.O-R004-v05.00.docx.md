@@ -1,6 +1,6 @@
 ## O-RAN.WG11.TR.Threat-Modeling.O-R004-v05.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TR.Threat-Modeling.O-R004-v05.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TR.Threat-Modeling.O-R004-v05.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TR.Threat-Modeling.O-R004-v05.00.docx).
 
@@ -3993,6 +3993,6 @@ Table 9-4 : Risk Assessment
 | 2019.01.22 | 00.00.01 | Create initial O-RAN version, with change-marks from previous content. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TR.Threat-Modeling.O-R004-v05.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TR.Threat-Modeling.O-R004-v05.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TR.Threat-Modeling.O-R004-v05.00.docx).

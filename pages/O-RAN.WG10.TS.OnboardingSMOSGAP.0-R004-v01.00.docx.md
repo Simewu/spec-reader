@@ -1,6 +1,6 @@
 ## O-RAN.WG10.TS.OnboardingSMOSGAP.0-R004-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.OnboardingSMOSGAP.0-R004-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.OnboardingSMOSGAP.0-R004-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.OnboardingSMOSGAP.0-R004-v01.00.docx).
 
@@ -458,6 +458,6 @@ Not specified in this version of the specification.
 | 2024.12.02 | 01.00 | Initial Published version |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.OnboardingSMOSGAP.0-R004-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.OnboardingSMOSGAP.0-R004-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.OnboardingSMOSGAP.0-R004-v01.00.docx).

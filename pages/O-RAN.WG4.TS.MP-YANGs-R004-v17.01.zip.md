@@ -1,6 +1,6 @@
 ## O-RAN.WG4.TS.MP-YANGs-R004-v17.01.zip
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.TS.MP-YANGs-R004-v17.01.zip).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.TS.MP-YANGs-R004-v17.01.zip).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.TS.MP-YANGs-R004-v17.01.zip).
 
@@ -26917,6 +26917,6 @@ module o-ran-processing-element {
 }
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.TS.MP-YANGs-R004-v17.01.zip).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.TS.MP-YANGs-R004-v17.01.zip).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.TS.MP-YANGs-R004-v17.01.zip).

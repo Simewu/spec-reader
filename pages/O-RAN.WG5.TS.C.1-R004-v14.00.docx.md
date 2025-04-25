@@ -1,6 +1,6 @@
 ## O-RAN.WG5.TS.C.1-R004-v14.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.TS.C.1-R004-v14.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.TS.C.1-R004-v14.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.TS.C.1-R004-v14.00.docx).
 
@@ -5215,6 +5215,6 @@ For ongoing gap measurements as an example, the following Use Case applies the m
 | 2024.11.25 | 14.00.03 | This version contains no comments and all changes have been accepted and track changes has been turned off |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.TS.C.1-R004-v14.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.TS.C.1-R004-v14.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.TS.C.1-R004-v14.00.docx).

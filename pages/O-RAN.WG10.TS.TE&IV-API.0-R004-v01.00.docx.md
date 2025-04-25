@@ -1,6 +1,6 @@
 ## O-RAN.WG10.TS.TE&IV-API.0-R004-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.TE%26IV-API.0-R004-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.TE%26IV-API.0-R004-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE&IV-API.0-R004-v01.00.docx).
 
@@ -1848,6 +1848,6 @@ Change History
 | 2024.11.21 | 01.00 | Implemented the following CRs for the November 2024 train: ERI-2024.08.14-WG10-CR- 0110-TE&IV\_API\_Content-v02, ERI-2024.09.23-WG10-CR-0115-TE&IV\_API\_Service  operation and Resources-v02, ERI-2024.10.16-WG10-CR-0125-TE&IVOpenAPI-v01,  ERI-2024.11.07-WG10-CR-0126-TE&IV\_API\_version\_update-v01 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.TE%26IV-API.0-R004-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.TE%26IV-API.0-R004-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE&IV-API.0-R004-v01.00.docx).

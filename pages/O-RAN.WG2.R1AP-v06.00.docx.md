@@ -1,6 +1,6 @@
 ## O-RAN.WG2.R1AP-v06.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.R1AP-v06.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.R1AP-v06.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.R1AP-v06.00.docx).
 
@@ -10794,6 +10794,6 @@ Change history
 | 2022-11-19 | 01.00 | Published version 01.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.R1AP-v06.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.R1AP-v06.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.R1AP-v06.00.docx).

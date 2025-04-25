@@ -1,6 +1,6 @@
 ## O-RAN.WG2.AIML-v01.03.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.AIML-v01.03.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.AIML-v01.03.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.AIML-v01.03.docx).
 
@@ -1641,6 +1641,6 @@ The ML inference host shall be able to receive ML model termination command, ide
 5. rather the same shall be and remain in full force and effect.
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.AIML-v01.03.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.AIML-v01.03.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.AIML-v01.03.docx).

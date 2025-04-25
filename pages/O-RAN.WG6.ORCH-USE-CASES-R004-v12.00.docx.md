@@ -1,6 +1,6 @@
 ## O-RAN.WG6.ORCH-USE-CASES-R004-v12.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.ORCH-USE-CASES-R004-v12.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.ORCH-USE-CASES-R004-v12.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.ORCH-USE-CASES-R004-v12.00.docx).
 
@@ -4006,6 +4006,6 @@ The following terms and definitions are used in the O-Cloud requirements.
 | 2024.12.10 | 12.00 | Incorporated 7 CRs for 2024 Nov train  DTAG-2024.07.24-WG6-CR-0010-3.2.5\_NF\_Deployment\_Termination-v01.01 DTAG.AO-2024.09.02-WG6-CR-0008\_O\_Cloud\_Pre Deployment\_v01.00  ERI-2024.06.24-WG6-CR-0037-Scale-Out-NF-Deployment-Use-Case-Update-v09 ERI-2024.06.24-WG6-CR-0043-Scale-In-NF-Deployment-Use-Case-Update-v04 DCM-2024.10.30-WG6-CR-0004-ORCH-UC\_Clarify\_NW\_to\_which\_O-  Cloud\_connects-v01  RHT.AO-2024.08.30-WG6-CR-0001-Provisioning-Cluster-Template-Use-Case-v000.8 RHT.AO-2024.09.23-WG6-CR-0001-Update-Using-Cluster-Template-Use-Case-v0.5  Incorporated editorial comments in WG Approval Comment Wiki |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.ORCH-USE-CASES-R004-v12.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.ORCH-USE-CASES-R004-v12.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.ORCH-USE-CASES-R004-v12.00.docx).

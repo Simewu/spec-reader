@@ -50,10 +50,7 @@ url_encode() {
 # Determine the working group on outlier files
 normalize_working_group() {
     local GROUP="$1"
-    GROUP=$(echo "$GROUP" | tr '[:lower:]' '[:upper:]')
     if [[ "$GROUP" == "SFG" ]]; then
-        echo "WG11"
-    elif [[ "$GROUP" == "SuFG" ]]; then
         echo "WG11"
     else
         echo "$GROUP"
@@ -101,22 +98,6 @@ for ENTRY in "${SORTED[@]}"; do
     OUTPUT_FILE_PATH="$OUTPUT_DIR/$OUTPUT_FILE_NAME"
     WORKING_GROUP=$(echo "$FILE_NAME" | sed -E 's/^O-?RAN[.-]([^.-]+).*/\1/')
     WORKING_GROUP=$(normalize_working_group "$WORKING_GROUP")
-    
-    case "$WORKING_GROUP" in
-    "TIFG") WORKING_GROUP_INDEXED="01-TIFG" ;;
-    "WG11") WORKING_GROUP_INDEXED="02-WG11" ;;
-    "WG10") WORKING_GROUP_INDEXED="03-WG10" ;;
-    "WG9") WORKING_GROUP_INDEXED="04-WG9" ;;
-    "WG8") WORKING_GROUP_INDEXED="05-WG8" ;;
-    "WG7") WORKING_GROUP_INDEXED="06-WG7" ;;
-    "WG6") WORKING_GROUP_INDEXED="07-WG6" ;;
-    "WG5") WORKING_GROUP_INDEXED="08-WG5" ;;
-    "WG4") WORKING_GROUP_INDEXED="09-WG4" ;;
-    "WG3") WORKING_GROUP_INDEXED="10-WG3" ;;
-    "WG2") WORKING_GROUP_INDEXED="11-WG2" ;;
-    "WG1") WORKING_GROUP_INDEXED="12-WG1" ;;
-    *) WORKING_GROUP_INDEXED="00-$WORKING_GROUP" ;;
-    esac
 
     echo
     echo "Processing $FILE_NAME... ($CURRENT_FILE of $TOTAL_FILES)"

@@ -1,6 +1,6 @@
 ## O-RAN.WG6.TS.O-CLOUD-IM.0-R004-v03.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.TS.O-CLOUD-IM.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.TS.O-CLOUD-IM.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.TS.O-CLOUD-IM.0-R004-v03.00.docx).
 
@@ -2884,6 +2884,6 @@ Change History
 | 2024.11.12 | 03.00.00 | Incorporated the following CRs:  DELL.AO-2024.08.27-WG6-CR-0010-O2IM\_DictionaryId\_v01  NOK.AO-2024.09.10-WG6-CR0131-GenSpclResource\_Guidelines\_v01.01 ATT-2024.07.30-WG6-CR-0024-Provisioning Relationship Modeling-v06  ATT.AO-2024.07.31-WG6-CR-0025-Networking Infrastructure Attribution-v09 ATT.AO-2024.09.11-WG6-CR-0026-Infrastructure Specialized Classes-v09 ATT-2024.09.11-WG6-CR-0027-PM Job Writeable Extensions-v02  ATT-2024.09.11-WG6-CR-0028-InfrastructureInventoryObject Name Correction-v03 ATT-2024.10.02-WG6-CR-0030-Cluster Classes and Attribution-v05  ATT-2024.10.02-WG6-CR-0031-Artifact Classes and Attribution-v04  ATT-2024.10.02-WG6-CR-0032-Provisioning Classes and Attribution-v08 ATT.AO-2024.10.15-WG6-CR-0033-3GPP Alignment to Release 18-v02  The following Editorial changes were made to make the document cohesive  Boiler plate text required for the Infrastructure Namespace which was not included in ATT-CR-0025 or ATT-CR-0026. This included the clause 4.2.5 itself and clauses  4.2.5.1, 4.2.5.2, and 4.2.5.3 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.TS.O-CLOUD-IM.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.TS.O-CLOUD-IM.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.TS.O-CLOUD-IM.0-R004-v03.00.docx).

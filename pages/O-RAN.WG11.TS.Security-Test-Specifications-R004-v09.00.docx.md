@@ -1,6 +1,6 @@
 ## O-RAN.WG11.TS.Security-Test-Specifications-R004-v09.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TS.Security-Test-Specifications-R004-v09.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TS.Security-Test-Specifications-R004-v09.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TS.Security-Test-Specifications-R004-v09.00.docx).
 
@@ -9689,6 +9689,6 @@ E. TEST RESULTS
 2. Because Radius support is required over interface between an authenticator and authentication server in the security requirement specification, only Radius authentication server is called for in this security test environment setup. Diameter based authentication server could be used as an alternative. [?](#footnote-ref-2)
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TS.Security-Test-Specifications-R004-v09.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TS.Security-Test-Specifications-R004-v09.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TS.Security-Test-Specifications-R004-v09.00.docx).

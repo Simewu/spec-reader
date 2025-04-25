@@ -1,6 +1,6 @@
 ## O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-TIFG/O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-TIFG/O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx).
 
@@ -2266,6 +2266,6 @@ Test Scenarios and KPIs to be considered
 21. force and effect. 46
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-TIFG/O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-TIFG/O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.TIFG.E2ETSTFWK.0-v01.00.docx).

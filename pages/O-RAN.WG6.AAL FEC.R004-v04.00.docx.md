@@ -1,6 +1,6 @@
 ## O-RAN.WG6.AAL FEC.R004-v04.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.AAL%20FEC.R004-v04.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.AAL%20FEC.R004-v04.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.AAL FEC.R004-v04.00.docx).
 
@@ -627,6 +627,6 @@ Change History
 | 2024.07.31 | 04.00.00 | Published as version 4 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.AAL%20FEC.R004-v04.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.AAL%20FEC.R004-v04.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.AAL FEC.R004-v04.00.docx).

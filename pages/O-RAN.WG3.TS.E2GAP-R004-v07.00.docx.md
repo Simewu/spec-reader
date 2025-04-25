@@ -1,6 +1,6 @@
 ## O-RAN.WG3.TS.E2GAP-R004-v07.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.E2GAP-R004-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.E2GAP-R004-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.E2GAP-R004-v07.00.docx).
 
@@ -1033,6 +1033,6 @@ F1-u
 | 2024.12.04 | V07.00 | **New features: E2 Resource Status, RIC Subscription State Control, RIC Assistance, Service Level error handling. Implementation of changes related to ETSI MSG**  **Liaison** |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.E2GAP-R004-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.E2GAP-R004-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.E2GAP-R004-v07.00.docx).

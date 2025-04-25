@@ -1,6 +1,6 @@
 ## O-RAN.WG3.TS.UCR-R004-v08.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.UCR-R004-v08.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.UCR-R004-v08.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.UCR-R004-v08.00.docx).
 
@@ -3038,6 +3038,6 @@ Change history/Change request (history)
 | 2024.12.04 | 08.00 | Final version 08.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.UCR-R004-v08.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.UCR-R004-v08.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.UCR-R004-v08.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.TIFG.CGofOTIC.0-v06.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-TIFG/O-RAN.TIFG.CGofOTIC.0-v06.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-TIFG/O-RAN.TIFG.CGofOTIC.0-v06.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.TIFG.CGofOTIC.0-v06.00.docx).
 
@@ -811,6 +811,6 @@ C5 Please describe the applied security and IPR protection mechanisms in the lab
 3
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-TIFG/O-RAN.TIFG.CGofOTIC.0-v06.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-TIFG/O-RAN.TIFG.CGofOTIC.0-v06.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.TIFG.CGofOTIC.0-v06.00.docx).

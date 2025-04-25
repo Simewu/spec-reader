@@ -1,6 +1,6 @@
 ## O-RAN.WG3.Y1TD-R004-v02.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.Y1TD-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.Y1TD-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.Y1TD-R004-v02.00.docx).
 
@@ -831,6 +831,6 @@ Change History
 | 2024.07.26 | 02.00 | Version incremented for TSC. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.Y1TD-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.Y1TD-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.Y1TD-R004-v02.00.docx).

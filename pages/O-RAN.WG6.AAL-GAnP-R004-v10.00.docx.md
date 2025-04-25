@@ -1,6 +1,6 @@
 ## O-RAN.WG6.AAL-GAnP-R004-v10.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.AAL-GAnP-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.AAL-GAnP-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.AAL-GAnP-R004-v10.00.docx).
 
@@ -1890,6 +1890,6 @@ Change History
 1. Configurable functional block, depends on implementation and/or system configuration [?](#footnote-ref-2)
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.AAL-GAnP-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.AAL-GAnP-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.AAL-GAnP-R004-v10.00.docx).

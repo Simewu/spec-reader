@@ -1,6 +1,6 @@
 ## O-RAN.WG5.U.0-R003-v07.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.U.0-R003-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.U.0-R003-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.U.0-R003-v07.00.docx).
 
@@ -197,6 +197,6 @@ NOTE: Whether the corresponding node sends AID by itself is up to implementation
 | 2024.03.21 | 6.00.03 | K.Saito  (NTT DOCOMO) | This version has the same content as the version 06.00.02 with the difference that this version has no comments, the track changes information is removed and the revision history is added. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.U.0-R003-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.U.0-R003-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.U.0-R003-v07.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG11.TR.Fronthaul-CUSPlane-Security.0-R004-v03.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TR.Fronthaul-CUSPlane-Security.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TR.Fronthaul-CUSPlane-Security.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TR.Fronthaul-CUSPlane-Security.0-R004-v03.00.docx).
 
@@ -1437,6 +1437,6 @@ Fig 2: **O-RU at Cell site O-DU and O-CU at the Central site**
 |  |  |  |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TR.Fronthaul-CUSPlane-Security.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TR.Fronthaul-CUSPlane-Security.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TR.Fronthaul-CUSPlane-Security.0-R004-v03.00.docx).

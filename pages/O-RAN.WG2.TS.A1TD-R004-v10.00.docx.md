@@ -1,6 +1,6 @@
 ## O-RAN.WG2.TS.A1TD-R004-v10.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.A1TD-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.A1TD-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.A1TD-R004-v10.00.docx).
 
@@ -6429,6 +6429,6 @@ Change History
 | 2024.11.30 | 10.00 | Updates to the common schema and the policy and EI types related to that. Updated references. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.A1TD-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.A1TD-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.A1TD-R004-v10.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG10.TS.TE&IV-CIMI.0-R004-v03.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE&IV-CIMI.0-R004-v03.00.docx).
 
@@ -1385,6 +1385,6 @@ Figure A.1-2: ORAN TE&IV Cloud NF Deployment View
 | 06/11/2024 | 03.00 | Implemented the following CRs for the November 2024 train: ERI-2024.09.18- WG10-CR-0113-TE&IV\_IS\_Definitions\_of\_ServiceOperations-v02, ERI-2024.09.18- WG10-CR-0114-TE&IV\_IS\_Definitions\_of\_ServiceOperations\_for\_Relationships-  v01, ERI-2024.10.04-WG10-CR-0124-REL-RAN-Cloud Namespace |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE&IV-CIMI.0-R004-v03.00.docx).

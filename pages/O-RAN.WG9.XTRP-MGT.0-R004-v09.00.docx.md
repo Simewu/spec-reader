@@ -1,6 +1,6 @@
 ## O-RAN.WG9.XTRP-MGT.0-R004-v09.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG9/O-RAN.WG9.XTRP-MGT.0-R004-v09.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG9/O-RAN.WG9.XTRP-MGT.0-R004-v09.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG9.XTRP-MGT.0-R004-v09.00.docx).
 
@@ -2103,6 +2103,6 @@ O-RAN.WG9.XTRP-MGT.0-R004-v09.00
 | 2024/07/15 | v9.00 | Management interface team | Added content for coordinated use cases in appendix E |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG9/O-RAN.WG9.XTRP-MGT.0-R004-v09.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG9/O-RAN.WG9.XTRP-MGT.0-R004-v09.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG9.XTRP-MGT.0-R004-v09.00.docx).

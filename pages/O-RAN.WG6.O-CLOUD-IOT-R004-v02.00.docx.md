@@ -1,6 +1,6 @@
 ## O-RAN.WG6.O-CLOUD-IOT-R004-v02.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.O-CLOUD-IOT-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.O-CLOUD-IOT-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.O-CLOUD-IOT-R004-v02.00.docx).
 
@@ -550,6 +550,6 @@ Annex (informative): Change History
 | 2023.11.17 | 00.00.05 | Resolve comments, Baseline for WG voting 00.00.05 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.O-CLOUD-IOT-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.O-CLOUD-IOT-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.O-CLOUD-IOT-R004-v02.00.docx).

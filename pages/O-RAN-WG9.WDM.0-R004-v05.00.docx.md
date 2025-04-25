@@ -1,6 +1,6 @@
 ## O-RAN-WG9.WDM.0-R004-v05.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG9/O-RAN-WG9.WDM.0-R004-v05.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG9/O-RAN-WG9.WDM.0-R004-v05.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN-WG9.WDM.0-R004-v05.00.docx).
 
@@ -1977,6 +1977,6 @@ The assumed penalties are based on ITU-T G.652 (2016-11), fiber type G.652.D. Ot
 **Appendix B Phase 2 >25G Line rate Cover it in an Appendix**
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG9/O-RAN-WG9.WDM.0-R004-v05.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG9/O-RAN-WG9.WDM.0-R004-v05.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN-WG9.WDM.0-R004-v05.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG2.R1TP-v04.02.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.R1TP-v04.02.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.R1TP-v04.02.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.R1TP-v04.02.docx).
 
@@ -293,6 +293,6 @@ Change history
 | 2022-03-31 | 01.00 | Published as Final version 1.0 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.R1TP-v04.02.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.R1TP-v04.02.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.R1TP-v04.02.docx).

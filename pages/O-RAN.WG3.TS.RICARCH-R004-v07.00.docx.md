@@ -1,6 +1,6 @@
 ## O-RAN.WG3.TS.RICARCH-R004-v07.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.RICARCH-R004-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.RICARCH-R004-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.RICARCH-R004-v07.00.docx).
 
@@ -3650,7 +3650,7 @@ NOTE: The xApp's communications with the Near-RT RIC platform and other xApps ar
 | 2023.07.28 | 04.00.05 | Resolution of review comments during WG3 poll. |
 | 2023.07.29 | 05.00 | Version increment for TSC approval. |
 | 2023.08.08 | 05.00.00 | Initial baseline |
-| 2023.11.24 | 05.00.01 | Addition of CRs:   * <NEC-2023.08.13-WG3-CR-0017-RIC ARCH Clarification on E2 INDICATION message order\_v3.docx> * <CMCC.AO-2023.07.10-WG3-CR-0013-Addition of text for service consumer and producer in clause 6A-v03.docx> * <NOK-2023.06.21-WG3-CR-0018-registration procedure with secure xApp ID assignment\_v05.docx> * <CMCC-2023.09.20-WG3-CR-0014-RICARCH-Services for AIML-v02.docx> * <NOK-2023.10.27-WG3-CR-0019-RICARCH-Subscription Audit-v02.docx> * <NOK-2023.02.10-WG3-CR-0015-RICARCH-APIEnablementAPIextension-v07.docx> Adding the full change history.   Editorial corrections and improvements. |
+| 2023.11.24 | 05.00.01 | Addition of CRs:   * <NEC-2023.08.13-WG3-CR-0017-RIC ARCH Clarification on E2 INDICATION message order\_v3.docx> * <CMCC.AO-2023.07.09-WG3-CR-0013-Addition of text for service consumer and producer in clause 6A-v03.docx> * <NOK-2023.06.21-WG3-CR-0018-registration procedure with secure xApp ID assignment\_v05.docx> * <CMCC-2023.09.20-WG3-CR-0014-RICARCH-Services for AIML-v02.docx> * <NOK-2023.10.27-WG3-CR-0019-RICARCH-Subscription Audit-v02.docx> * <NOK-2023.02.09-WG3-CR-0015-RICARCH-APIEnablementAPIextension-v07.docx> Adding the full change history.   Editorial corrections and improvements. |
 | 2024.03.11 | 05.00.02 | Addition of CRs:  - <CMCC-2023.11.07-WG3-CR-0017-RICARCH-xApp Data Sharing Service for RAI sharing from xApps-v1.docx> |
 
 |  |  |  |
@@ -3665,6 +3665,6 @@ NOTE: The xApp's communications with the Near-RT RIC platform and other xApps ar
 | 2024.12.05 | 07.00 | Version incremented to 07.00 for TSC. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.RICARCH-R004-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.RICARCH-R004-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.RICARCH-R004-v07.00.docx).

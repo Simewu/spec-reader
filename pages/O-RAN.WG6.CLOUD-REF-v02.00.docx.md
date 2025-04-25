@@ -1,6 +1,6 @@
 ## O-RAN.WG6.CLOUD-REF-v02.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.CLOUD-REF-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.CLOUD-REF-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.CLOUD-REF-v02.00.docx).
 
@@ -1759,6 +1759,6 @@ Figure 5-5 shows an example cloud platform with mixed acceleration models, where
 21. force and effect.
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.CLOUD-REF-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.CLOUD-REF-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.CLOUD-REF-v02.00.docx).

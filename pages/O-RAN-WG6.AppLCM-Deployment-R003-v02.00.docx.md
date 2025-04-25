@@ -1,6 +1,6 @@
 ## O-RAN-WG6.AppLCM-Deployment-R003-v02.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN-WG6.AppLCM-Deployment-R003-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN-WG6.AppLCM-Deployment-R003-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN-WG6.AppLCM-Deployment-R003-v02.00.docx).
 
@@ -754,6 +754,6 @@ History of the Document
 | 2023.03 | 01.00 | Published as Final version 01.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN-WG6.AppLCM-Deployment-R003-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN-WG6.AppLCM-Deployment-R003-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN-WG6.AppLCM-Deployment-R003-v02.00.docx).

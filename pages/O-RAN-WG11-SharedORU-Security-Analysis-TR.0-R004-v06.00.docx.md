@@ -1,6 +1,6 @@
 ## O-RAN-WG11-SharedORU-Security-Analysis-TR.0-R004-v06.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN-WG11-SharedORU-Security-Analysis-TR.0-R004-v06.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN-WG11-SharedORU-Security-Analysis-TR.0-R004-v06.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN-WG11-SharedORU-Security-Analysis-TR.0-R004-v06.00.docx).
 
@@ -1478,6 +1478,6 @@ Figure A.1-2 Shared O-RU Simplified 'All-in-One' Architecture (Security Viewpoin
 | July 2024 | V06.00 | Sixth release | WG11 | Updates Shared O-RU asset-ids |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN-WG11-SharedORU-Security-Analysis-TR.0-R004-v06.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN-WG11-SharedORU-Security-Analysis-TR.0-R004-v06.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN-WG11-SharedORU-Security-Analysis-TR.0-R004-v06.00.docx).

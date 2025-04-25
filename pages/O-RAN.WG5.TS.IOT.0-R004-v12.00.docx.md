@@ -1,6 +1,6 @@
 ## O-RAN.WG5.TS.IOT.0-R004-v12.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.TS.IOT.0-R004-v12.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.TS.IOT.0-R004-v12.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.TS.IOT.0-R004-v12.00.docx).
 
@@ -17228,6 +17228,6 @@ o MgNB sends SgNB DDDS as soon as possible only when all PDCP PDU SNs up to this
 | 2024.11.21 | 12.00 | Addition of more X2, F1, and Xn test cases and minor editorial corrections. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.TS.IOT.0-R004-v12.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.TS.IOT.0-R004-v12.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.TS.IOT.0-R004-v12.00.docx).

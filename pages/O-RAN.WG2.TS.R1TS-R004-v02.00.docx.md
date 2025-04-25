@@ -1,6 +1,6 @@
 ## O-RAN.WG2.TS.R1TS-R004-v02.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.R1TS-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.R1TS-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.R1TS-R004-v02.00.docx).
 
@@ -766,6 +766,6 @@ Change History
 | 2024-07-11 | 01.00 | Published with conformance testing of rApps and SMO/Non-RT RIC Framework and with one Service registration test case |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.R1TS-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.R1TS-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.R1TS-R004-v02.00.docx).

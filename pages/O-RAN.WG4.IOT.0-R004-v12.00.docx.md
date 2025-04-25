@@ -1,6 +1,6 @@
 ## O-RAN.WG4.IOT.0-R004-v12.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.IOT.0-R004-v12.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.IOT.0-R004-v12.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.IOT.0-R004-v12.00.docx).
 
@@ -3742,6 +3742,6 @@ Profile Test Configurations:
 | 2024.07.03 | 11.03 | Published as Final version 11.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.IOT.0-R004-v12.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.IOT.0-R004-v12.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.IOT.0-R004-v12.00.docx).

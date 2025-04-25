@@ -1,6 +1,6 @@
 ## O-RAN.WG5.Transport.0-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.Transport.0-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.Transport.0-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.Transport.0-v01.00.docx).
 
@@ -678,6 +678,6 @@ Any failure by a party or third party beneficiary to insist upon or enforce perf
 3. This does not preclude equipment supporting Ethernet SDUs larger than that. [?](#footnote-ref-4)
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.Transport.0-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.Transport.0-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.Transport.0-v01.00.docx).

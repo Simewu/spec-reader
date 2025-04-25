@@ -1,6 +1,6 @@
 ## O-RAN.WG8.IOT.0-R004-v12.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG8/O-RAN.WG8.IOT.0-R004-v12.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG8/O-RAN.WG8.IOT.0-R004-v12.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG8.IOT.0-R004-v12.00.docx).
 
@@ -7280,6 +7280,6 @@ Figure C.1-1: Initial Access Flow
 | 2024.11.11 | 12.00 | Veeresh Neginhal (Radisys)  Rahul Saxena (Radisys)  Manish Malviya (Radisys) | Added new TCs to verify Network energy saving.  (From ORAN.WG8.IOT.088 to ORAN.WG8.IOT.089) |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG8/O-RAN.WG8.IOT.0-R004-v12.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG8/O-RAN.WG8.IOT.0-R004-v12.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG8.IOT.0-R004-v12.00.docx).

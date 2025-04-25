@@ -1,6 +1,6 @@
 ## O-RAN.WG2.TS.R1GAP-R004-v10.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.R1GAP-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.R1GAP-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.R1GAP-R004-v10.00.docx).
 
@@ -1201,6 +1201,6 @@ Change History
 | 2021-11-23 | 01.00 | Published as Final version 01.00. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.R1GAP-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.R1GAP-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.R1GAP-R004-v10.00.docx).

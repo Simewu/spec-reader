@@ -1,6 +1,6 @@
 ## O-RAN.WG5.O-DU-O1.2-R003-v09.00.xlsx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.O-DU-O1.2-R003-v09.00.xlsx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.O-DU-O1.2-R003-v09.00.xlsx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.O-DU-O1.2-R003-v09.00.xlsx).
 
@@ -2173,6 +2173,6 @@
 | +--:(SELECTIVE) |  -  |  -  |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.O-DU-O1.2-R003-v09.00.xlsx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.O-DU-O1.2-R003-v09.00.xlsx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.O-DU-O1.2-R003-v09.00.xlsx).

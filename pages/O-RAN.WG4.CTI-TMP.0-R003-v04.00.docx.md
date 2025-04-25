@@ -1,6 +1,6 @@
 ## O-RAN.WG4.CTI-TMP.0-R003-v04.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.CTI-TMP.0-R003-v04.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.CTI-TMP.0-R003-v04.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.CTI-TMP.0-R003-v04.00.docx).
 
@@ -3413,6 +3413,6 @@ import o-ran-common-identity-refs { prefix or-refs;
 8
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.CTI-TMP.0-R003-v04.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.CTI-TMP.0-R003-v04.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.CTI-TMP.0-R003-v04.00.docx).

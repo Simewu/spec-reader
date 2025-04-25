@@ -1,6 +1,6 @@
 ## O-RAN.WG3.TS.E2SM-LLC-R004-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.E2SM-LLC-R004-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.E2SM-LLC-R004-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.E2SM-LLC-R004-v01.00.docx).
 
@@ -2304,6 +2304,6 @@ Clause 10 of TS 36.413 [18] is applicable for the purposes of the present docume
 | **2024.12.04** | **01.00** | **Initial version** |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.E2SM-LLC-R004-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.E2SM-LLC-R004-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.E2SM-LLC-R004-v01.00.docx).

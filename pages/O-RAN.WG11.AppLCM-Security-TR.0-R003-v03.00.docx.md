@@ -1,6 +1,6 @@
 ## O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx).
 
@@ -1524,6 +1524,6 @@ The following is a list of next steps and recommendations coming from this work 
 | 2023.11.03 | v03.00 | Third release, Version 3 of Technical Report |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.AppLCM-Security-TR.0-R003-v03.00.docx).

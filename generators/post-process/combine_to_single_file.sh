@@ -28,8 +28,6 @@ normalize_working_group() {
     local GROUP="$1"
     if [[ "$GROUP" == "SFG" ]]; then
         echo "WG11"
-    elif [[ "$GROUP" == "SuFG" ]]; then
-        echo "WG11"
     else
         echo "$GROUP"
     fi

@@ -1,6 +1,6 @@
 ## O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-TIFG/O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-TIFG/O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx).
 
@@ -154,6 +154,6 @@ Utilized test and measurement equipment and tools.
 **Notes, incl. observed issues with the pass to resolution steps**
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-TIFG/O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-TIFG/O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.TIFG.Cert-Badge.2-R004-v10.00.docx).

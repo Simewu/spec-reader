@@ -1,6 +1,6 @@
 ## O-RAN.WG2.TS.A1UCR-R004-v02.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.A1UCR-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.A1UCR-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.A1UCR-R004-v02.00.docx).
 
@@ -1789,6 +1789,6 @@ Change History
 | 2024.11.30 | 02.00 | Use cases for Authorization of service access requests and AI/ML model training |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.A1UCR-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.A1UCR-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.A1UCR-R004-v02.00.docx).

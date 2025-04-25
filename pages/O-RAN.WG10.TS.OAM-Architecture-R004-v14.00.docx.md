@@ -1,6 +1,6 @@
 ## O-RAN.WG10.TS.OAM-Architecture-R004-v14.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.OAM-Architecture-R004-v14.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.OAM-Architecture-R004-v14.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.OAM-Architecture-R004-v14.00.docx).
 
@@ -1979,6 +1979,6 @@ Examples of attributes are defined in Table F-1 below.
 | 2024.11.27 | 14.00 | Final version for November 2024 train |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.OAM-Architecture-R004-v14.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.OAM-Architecture-R004-v14.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.OAM-Architecture-R004-v14.00.docx).

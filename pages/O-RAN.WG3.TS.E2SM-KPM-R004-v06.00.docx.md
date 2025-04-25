@@ -1,6 +1,6 @@
 ## O-RAN.WG3.TS.E2SM-KPM-R004-v06.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.E2SM-KPM-R004-v06.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.E2SM-KPM-R004-v06.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.E2SM-KPM-R004-v06.00.docx).
 
@@ -2255,6 +2255,6 @@ Annex (informative): Change History
 | 2024.12.06 | 06.00 | New feature: Add DL and UL Transmitted Data Volume for MAC SDU |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.E2SM-KPM-R004-v06.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.E2SM-KPM-R004-v06.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.E2SM-KPM-R004-v06.00.docx).

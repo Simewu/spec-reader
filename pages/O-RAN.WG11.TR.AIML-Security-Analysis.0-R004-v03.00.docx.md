@@ -1,6 +1,6 @@
 ## O-RAN.WG11.TR.AIML-Security-Analysis.0-R004-v03.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TR.AIML-Security-Analysis.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TR.AIML-Security-Analysis.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TR.AIML-Security-Analysis.0-R004-v03.00.docx).
 
@@ -1902,6 +1902,6 @@ Table 10.2-1. Mapping of AI/ML TR attacks with NIST AML Taxonomy of attacks
 | 2024.11.27 | V03.00 | Published as Final version 03.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TR.AIML-Security-Analysis.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TR.AIML-Security-Analysis.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TR.AIML-Security-Analysis.0-R004-v03.00.docx).

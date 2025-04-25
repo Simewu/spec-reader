@@ -1,6 +1,6 @@
 ## O-RAN.WG5.O-DU-O1.0-R003-v09.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.O-DU-O1.0-R003-v09.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.O-DU-O1.0-R003-v09.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.O-DU-O1.0-R003-v09.00.docx).
 
@@ -7406,6 +7406,6 @@ augment /me3gpp:ManagedElement/gnbdu3gpp:GNBDUFunction:
 2
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.O-DU-O1.0-R003-v09.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.O-DU-O1.0-R003-v09.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.O-DU-O1.0-R003-v09.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG7.NES.0-R003-v02.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG7/O-RAN.WG7.NES.0-R003-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG7/O-RAN.WG7.NES.0-R003-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG7.NES.0-R003-v02.00.docx).
 
@@ -1059,6 +1059,6 @@ Additional P/Ns will be added if they provide differentiating features.
 | 2024.07.16 | 02.00 | V2.0. Candidate submission |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG7/O-RAN.WG7.NES.0-R003-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG7/O-RAN.WG7.NES.0-R003-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG7.NES.0-R003-v02.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG10.TS.O1PMeas-R004-v02.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.O1PMeas-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.O1PMeas-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.O1PMeas-R004-v02.00.docx).
 
@@ -8268,6 +8268,6 @@ For more information about the meaning of each field refer to 3GPP TS 32.404 [1]
 | 2024.12.09 | 02.00 | Summary of changes since the previous version:   * Adoption of 3GPP filter mechanism * Addition of a new general requirement * Update to 3GPP Release 18 references * Alignment with 3GPP for measurement values * Addition of counting triggers * Corrections and clarifications for measurement definitions * Voiding A.2.9.31, A.4.2.23, A.4.2.24, A.4.3.3, A.4.11.31, and A.4.11.32 * Voiding NOTE 2) and 5) in clause 5.1 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.O1PMeas-R004-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.O1PMeas-R004-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.O1PMeas-R004-v02.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG2.TS.A1GAP-R004-v05.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.A1GAP-R004-v05.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.A1GAP-R004-v05.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.A1GAP-R004-v05.00.docx).
 
@@ -775,6 +775,6 @@ Change History
 | 2024.11.30 | 05.00 | Updated A1 service architecture, and A1 ML functions and related procedures |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.A1GAP-R004-v05.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.A1GAP-R004-v05.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.A1GAP-R004-v05.00.docx).

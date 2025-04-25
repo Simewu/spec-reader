@@ -1,6 +1,6 @@
 ## O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-TIFG/O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-TIFG/O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx).
 
@@ -683,6 +683,6 @@ Compliance folder should at least include the following information:
 | 2021.03.05 | 01.00 | Published as Final version 01.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-TIFG/O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-TIFG/O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.TIFG.Cert-Badge.0-R004-v10.00.docx).

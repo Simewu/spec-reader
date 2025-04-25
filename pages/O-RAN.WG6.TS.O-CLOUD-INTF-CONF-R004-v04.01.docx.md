@@ -1,6 +1,6 @@
 ## O-RAN.WG6.TS.O-CLOUD-INTF-CONF-R004-v04.01.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.TS.O-CLOUD-INTF-CONF-R004-v04.01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.TS.O-CLOUD-INTF-CONF-R004-v04.01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.TS.O-CLOUD-INTF-CONF-R004-v04.01.docx).
 
@@ -1734,6 +1734,6 @@ Cases marked with Y apply to the corresponding cloud technologies should be exec
 | 2024.12.9 | 04.01 | Resolve comments, Published as Final version 04.01 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.TS.O-CLOUD-INTF-CONF-R004-v04.01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.TS.O-CLOUD-INTF-CONF-R004-v04.01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.TS.O-CLOUD-INTF-CONF-R004-v04.01.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG11.TS.Security-Requirements-Specification.0-R004-v11.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TS.Security-Requirements-Specification.0-R004-v11.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TS.Security-Requirements-Specification.0-R004-v11.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TS.Security-Requirements-Specification.0-R004-v11.00.docx).
 
@@ -4623,6 +4623,6 @@ Table E-1. Summary of O-RAN Security Controls
 2. ETSI GR NFV-SEC 007: "Functions Virtualisation (NFV); Trust; Report on Attestation Technologies and Practices for Secure Deployments". [?](#footnote-ref-3)
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TS.Security-Requirements-Specification.0-R004-v11.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TS.Security-Requirements-Specification.0-R004-v11.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TS.Security-Requirements-Specification.0-R004-v11.00.docx).

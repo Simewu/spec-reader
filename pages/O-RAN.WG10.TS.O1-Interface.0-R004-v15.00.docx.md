@@ -1,6 +1,6 @@
 ## O-RAN.WG10.TS.O1-Interface.0-R004-v15.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.O1-Interface.0-R004-v15.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.O1-Interface.0-R004-v15.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.O1-Interface.0-R004-v15.00.docx).
 
@@ -2882,6 +2882,6 @@ Based on the value nf\_type (for example, gNB-CU-CP, gNB-CU-UP, gNB-DU) in the T
 | 2024.11.21 | 15.00 | Incorporate approved CRs: Correction of VES event mapping CR 87, Fault Supervision MnS Stage 3 references update CR 88, Addressing PMCountGroup and CUCountGroup compatibility CR 89. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.O1-Interface.0-R004-v15.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.O1-Interface.0-R004-v15.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.O1-Interface.0-R004-v15.00.docx).

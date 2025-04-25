@@ -1,6 +1,6 @@
 ## O-RAN-WG3.E2SM-NI-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN-WG3.E2SM-NI-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN-WG3.E2SM-NI-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN-WG3.E2SM-NI-v01.00.docx).
 
@@ -2573,6 +2573,6 @@ Copyright (C) 2020 by the O-RAN Alliance e.V. Your use is subject to the terms o
 21. force and effect. 49
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN-WG3.E2SM-NI-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN-WG3.E2SM-NI-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN-WG3.E2SM-NI-v01.00.docx).

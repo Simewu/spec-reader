@@ -1,6 +1,6 @@
 ## O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx).
 
@@ -1348,6 +1348,6 @@ Change history/Change request (history)
 | 2024.07.26 | 02.00.03 | Updated the TR based on the review comments during July 2024 WG11 voting |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.OAuth2.0-Security-TR.0-R004-v03.00.docx).

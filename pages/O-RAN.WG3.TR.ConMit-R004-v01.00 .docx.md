@@ -1,6 +1,6 @@
 ## O-RAN.WG3.TR.ConMit-R004-v01.00 .docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TR.ConMit-R004-v01.00%20.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TR.ConMit-R004-v01.00%20.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TR.ConMit-R004-v01.00 .docx).
 
@@ -1716,6 +1716,6 @@ NOTE: Solution #1 may serve as a pre-requisite for conflict resolution solutions
 | 2024.07.23 | 01.00.00 | Version 1 after editorial fixes and approval vote |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TR.ConMit-R004-v01.00%20.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TR.ConMit-R004-v01.00%20.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TR.ConMit-R004-v01.00 .docx).

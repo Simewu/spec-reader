@@ -1,6 +1,6 @@
 ## O-RAN.WG2.TS.Use-Case-Requirements-R004-v10.02.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.Use-Case-Requirements-R004-v10.02.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.Use-Case-Requirements-R004-v10.02.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.Use-Case-Requirements-R004-v10.02.docx).
 
@@ -5640,6 +5640,6 @@ Table 5.2.3-1: R1 interface non-functional requirements
 | 2024.12.04 | 10.02 | Final version 10.02 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.Use-Case-Requirements-R004-v10.02.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.Use-Case-Requirements-R004-v10.02.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.Use-Case-Requirements-R004-v10.02.docx).

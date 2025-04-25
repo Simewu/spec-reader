@@ -1,6 +1,6 @@
 ## O-RAN.WG4.TS.CONF.0-R004-v12.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.TS.CONF.0-R004-v12.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.TS.CONF.0-R004-v12.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.TS.CONF.0-R004-v12.00.docx).
 
@@ -19231,6 +19231,6 @@ The O-DU emulator has determined the topology (adjacency relationships) of O-RUs
 2. Both PUSCH and PUCCH from 2 south-node O-RUs can be decoded correctly from TEM/O-DU U-Plane extracted IQ with expected payload.
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.TS.CONF.0-R004-v12.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.TS.CONF.0-R004-v12.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.TS.CONF.0-R004-v12.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG7.OMC-HAR.0-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG7/O-RAN.WG7.OMC-HAR.0-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG7/O-RAN.WG7.OMC-HAR.0-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG7.OMC-HAR.0-v01.00.docx).
 
@@ -1514,6 +1514,6 @@ O-DU7-2x
 25
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG7/O-RAN.WG7.OMC-HAR.0-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG7/O-RAN.WG7.OMC-HAR.0-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG7.OMC-HAR.0-v01.00.docx).

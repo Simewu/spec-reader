@@ -1,6 +1,6 @@
 ## O-RAN.WG4.CTI-TMP-YANG-v03.00.zip
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.CTI-TMP-YANG-v03.00.zip).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.CTI-TMP-YANG-v03.00.zip).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.CTI-TMP-YANG-v03.00.zip).
 
@@ -1540,6 +1540,6 @@ module o-ran-wg5-features {
 }
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.CTI-TMP-YANG-v03.00.zip).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.CTI-TMP-YANG-v03.00.zip).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.CTI-TMP-YANG-v03.00.zip).

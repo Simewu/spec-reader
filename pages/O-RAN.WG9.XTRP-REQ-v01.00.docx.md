@@ -1,6 +1,6 @@
 ## O-RAN.WG9.XTRP-REQ-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG9/O-RAN.WG9.XTRP-REQ-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG9/O-RAN.WG9.XTRP-REQ-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG9.XTRP-REQ-v01.00.docx).
 
@@ -2763,6 +2763,6 @@ is the CPRI control word overhead
 23. remedy in that or any other instance; rather the same shall be and remain in full force and effect.
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG9/O-RAN.WG9.XTRP-REQ-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG9/O-RAN.WG9.XTRP-REQ-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG9.XTRP-REQ-v01.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG9.XTRP-SYN.1-R004-v06.00_YANG.zip
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG9/O-RAN.WG9.XTRP-SYN.1-R004-v06.00_YANG.zip).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG9/O-RAN.WG9.XTRP-SYN.1-R004-v06.00_YANG.zip).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG9.XTRP-SYN.1-R004-v06.00_YANG.zip).
 
@@ -646,6 +646,6 @@ module o-ran-e2e-sync-monitoring {
 }
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG9/O-RAN.WG9.XTRP-SYN.1-R004-v06.00_YANG.zip).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG9/O-RAN.WG9.XTRP-SYN.1-R004-v06.00_YANG.zip).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG9.XTRP-SYN.1-R004-v06.00_YANG.zip).

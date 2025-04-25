@@ -1,6 +1,6 @@
 ## O-RAN.WG7.IPC-TEST.0-v01.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG7/O-RAN.WG7.IPC-TEST.0-v01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG7/O-RAN.WG7.IPC-TEST.0-v01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG7.IPC-TEST.0-v01.docx).
 
@@ -512,6 +512,6 @@ Change history
 |  |  |  |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG7/O-RAN.WG7.IPC-TEST.0-v01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG7/O-RAN.WG7.IPC-TEST.0-v01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG7.IPC-TEST.0-v01.docx).

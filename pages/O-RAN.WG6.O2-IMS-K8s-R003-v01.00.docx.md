@@ -1,6 +1,6 @@
 ## O-RAN.WG6.O2-IMS-K8s-R003-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.O2-IMS-K8s-R003-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.O2-IMS-K8s-R003-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.O2-IMS-K8s-R003-v01.00.docx).
 
@@ -380,6 +380,6 @@ Further specification of the O2 IMS interface [9] might leverage the recommendat
 | 2023.11.16 | 00.00.03 | Published as Final version 01.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.O2-IMS-K8s-R003-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.O2-IMS-K8s-R003-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.O2-IMS-K8s-R003-v01.00.docx).

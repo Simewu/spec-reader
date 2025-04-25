@@ -1,6 +1,6 @@
 ## O-RAN.WG8.AAD.0-R004-v14.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG8/O-RAN.WG8.AAD.0-R004-v14.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG8/O-RAN.WG8.AAD.0-R004-v14.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG8.AAD.0-R004-v14.00.docx).
 
@@ -4986,6 +4986,6 @@ Figure A-6 PDU Session Establishment
 | 11/22/2024 | 14.00 | Updates for Nov 2024 release. Included DMRS beamforming description. Added latest references to WG3 service models. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG8/O-RAN.WG8.AAD.0-R004-v14.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/04-WG8/O-RAN.WG8.AAD.0-R004-v14.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG8.AAD.0-R004-v14.00.docx).

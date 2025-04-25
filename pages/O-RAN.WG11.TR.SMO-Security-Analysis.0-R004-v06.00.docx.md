@@ -1,6 +1,6 @@
 ## O-RAN.WG11.TR.SMO-Security-Analysis.0-R004-v06.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TR.SMO-Security-Analysis.0-R004-v06.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TR.SMO-Security-Analysis.0-R004-v06.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TR.SMO-Security-Analysis.0-R004-v06.00.docx).
 
@@ -1193,6 +1193,6 @@ The SMO role in certificate management is currently unspecified.
 | November 2024 | V06.00 | Sixth release | WG11 | Added asset-id's and acronyms |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.TR.SMO-Security-Analysis.0-R004-v06.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.TR.SMO-Security-Analysis.0-R004-v06.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.TR.SMO-Security-Analysis.0-R004-v06.00.docx).

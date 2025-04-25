@@ -1,6 +1,6 @@
 ## O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01.docx).
 
@@ -238,6 +238,6 @@ Change History
 | 2024.07.31 | 01.01.00 | Final version for July '24 train, upgraded document revision to R004 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01.docx).

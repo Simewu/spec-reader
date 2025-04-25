@@ -1,6 +1,6 @@
 ## O-RAN.WG7.EMC-HAR-HRD.0-R003-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG7/O-RAN.WG7.EMC-HAR-HRD.0-R003-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG7/O-RAN.WG7.EMC-HAR-HRD.0-R003-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG7.EMC-HAR-HRD.0-R003-v01.00.docx).
 
@@ -1959,6 +1959,6 @@ Table 7.4-13 Environmental Features
 | 2022.11.08 | 01.00.00 | Published as final version 01.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG7/O-RAN.WG7.EMC-HAR-HRD.0-R003-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/05-WG7/O-RAN.WG7.EMC-HAR-HRD.0-R003-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG7.EMC-HAR-HRD.0-R003-v01.00.docx).

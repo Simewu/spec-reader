@@ -1,6 +1,6 @@
 ## O-RAN.WG2.TS.A1TS-R004-v04.03.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.A1TS-R004-v04.03.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.A1TS-R004-v04.03.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.A1TS-R004-v04.03.docx).
 
@@ -4308,6 +4308,6 @@ Change History
 | 2024.11.30 | 04.03 | Editorial enhancements of references |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG2/O-RAN.WG2.TS.A1TS-R004-v04.03.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG2/O-RAN.WG2.TS.A1TS-R004-v04.03.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG2.TS.A1TS-R004-v04.03.docx).

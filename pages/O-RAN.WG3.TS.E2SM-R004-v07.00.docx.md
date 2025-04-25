@@ -1,6 +1,6 @@
 ## O-RAN.WG3.TS.E2SM-R004-v07.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.E2SM-R004-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.E2SM-R004-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.E2SM-R004-v07.00.docx).
 
@@ -1751,6 +1751,6 @@ E2SM shall use the ASN.1 Basic Packed Encoding Rules (BASIC-PER) Aligned Variant
 |  |  |  |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/10-WG3/O-RAN.WG3.TS.E2SM-R004-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG3/O-RAN.WG3.TS.E2SM-R004-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG3.TS.E2SM-R004-v07.00.docx).

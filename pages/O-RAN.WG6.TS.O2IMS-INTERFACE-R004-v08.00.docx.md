@@ -1,6 +1,6 @@
 ## O-RAN.WG6.TS.O2IMS-INTERFACE-R004-v08.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.TS.O2IMS-INTERFACE-R004-v08.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.TS.O2IMS-INTERFACE-R004-v08.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.TS.O2IMS-INTERFACE-R004-v08.00.docx).
 
@@ -4106,6 +4106,6 @@ NOTE: The probable cause codes are not specified in the present document version
 | 2024.12.09 | 08.00 | Final version 08.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG6/O-RAN.WG6.TS.O2IMS-INTERFACE-R004-v08.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.TS.O2IMS-INTERFACE-R004-v08.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.TS.O2IMS-INTERFACE-R004-v08.00.docx).

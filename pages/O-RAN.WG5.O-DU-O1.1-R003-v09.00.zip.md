@@ -1,6 +1,6 @@
 ## O-RAN.WG5.O-DU-O1.1-R003-v09.00.zip
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.O-DU-O1.1-R003-v09.00.zip).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.O-DU-O1.1-R003-v09.00.zip).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.O-DU-O1.1-R003-v09.00.zip).
 
@@ -6568,6 +6568,6 @@ module o-ran-agg-usermgmt {
 }
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.O-DU-O1.1-R003-v09.00.zip).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.O-DU-O1.1-R003-v09.00.zip).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.O-DU-O1.1-R003-v09.00.zip).

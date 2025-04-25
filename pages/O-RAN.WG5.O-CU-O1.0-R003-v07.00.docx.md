@@ -1,6 +1,6 @@
 ## O-RAN.WG5.O-CU-O1.0-R003-v07.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.O-CU-O1.0-R003-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.O-CU-O1.0-R003-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.O-CU-O1.0-R003-v07.00.docx).
 
@@ -5052,6 +5052,6 @@ clause 4.3.29 end note
 2
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG5/O-RAN.WG5.O-CU-O1.0-R003-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/07-WG5/O-RAN.WG5.O-CU-O1.0-R003-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG5.O-CU-O1.0-R003-v07.00.docx).

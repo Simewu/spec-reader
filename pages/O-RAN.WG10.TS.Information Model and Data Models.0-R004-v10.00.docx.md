@@ -1,6 +1,6 @@
 ## O-RAN.WG10.TS.Information Model and Data Models.0-R004-v10.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.0-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.0-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.Information Model and Data Models.0-R004-v10.00.docx).
 
@@ -1085,6 +1085,6 @@ The following table shows data models that are of interest and being considered 
 | 2024.12.06 | 10.00 | Attributes performanceDictionaryId and alarmDictionaryId added Section 6.2.2 Naming:   * Update naming conventions to recommendations. * Add prefix naming convention that includes the short interface name. Change 3GPP references to Rel 18.   Editorial fixes |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/03-WG10/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.0-R004-v10.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.0-R004-v10.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.Information Model and Data Models.0-R004-v10.00.docx).

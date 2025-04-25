@@ -1,6 +1,6 @@
 ## O-RAN.WG11.O-CLOUD-Security-Analysis-TR.O-R004-v07.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.O-CLOUD-Security-Analysis-TR.O-R004-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.O-CLOUD-Security-Analysis-TR.O-R004-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.O-CLOUD-Security-Analysis-TR.O-R004-v07.00.docx).
 
@@ -2546,6 +2546,6 @@ NOTE: The VNF provider cannot require the use of self-signed certificates in an 
 21. https://kubernetes.io/docs/reference/access-authn-authz/authentication [?](#footnote-ref-22)
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG11/O-RAN.WG11.O-CLOUD-Security-Analysis-TR.O-R004-v07.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.WG11.O-CLOUD-Security-Analysis-TR.O-R004-v07.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG11.O-CLOUD-Security-Analysis-TR.O-R004-v07.00.docx).

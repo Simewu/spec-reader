@@ -1,6 +1,6 @@
 ## O-RAN.WG4.TS.MP.0-R004-v17.01.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.TS.MP.0-R004-v17.01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.TS.MP.0-R004-v17.01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.TS.MP.0-R004-v17.01.docx).
 
@@ -15774,6 +15774,6 @@ Table G-4 Mapping MEP configuration between o-ran-lbm.yang and ieee-802-dot1q-cf
 | 2024.01.27 | 17.01 | Bug fixes and correction to v17.00:  - Aligned all 3GPP References |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.TS.MP.0-R004-v17.01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.TS.MP.0-R004-v17.01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.TS.MP.0-R004-v17.01.docx).

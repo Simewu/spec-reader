@@ -1,6 +1,6 @@
 ## O-RAN.WG4.TS.CUS.0-R004-v17.01.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.TS.CUS.0-R004-v17.01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.TS.CUS.0-R004-v17.01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.TS.CUS.0-R004-v17.01.docx).
 
@@ -22837,6 +22837,6 @@ O-RU #1 and beam ID #1 of O-RU #2. Therefore copy and combine function is applie
 | 23.01.2025 | 17.01 | WG4 agreed to the inclusion of following CR after review of document version 17.00 was concluded: NOK-0203 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/09-WG4/O-RAN.WG4.TS.CUS.0-R004-v17.01.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/08-WG4/O-RAN.WG4.TS.CUS.0-R004-v17.01.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG4.TS.CUS.0-R004-v17.01.docx).
