@@ -99,6 +99,23 @@ for ENTRY in "${SORTED[@]}"; do
     WORKING_GROUP=$(echo "$FILE_NAME" | sed -E 's/^O-?RAN[.-]([^.-]+).*/\1/')
     WORKING_GROUP=$(normalize_working_group "$WORKING_GROUP")
 
+    case "$WORKING_GROUP" in
+    "WG11") WORKING_GROUP_INDEXED="01-WG11" ;;
+    "WG10") WORKING_GROUP_INDEXED="02-WG10" ;;
+    "WG9") WORKING_GROUP_INDEXED="03-WG9" ;;
+    "WG8") WORKING_GROUP_INDEXED="04-WG8" ;;
+    "WG7") WORKING_GROUP_INDEXED="05-WG7" ;;
+    "WG6") WORKING_GROUP_INDEXED="06-WG6" ;;
+    "WG5") WORKING_GROUP_INDEXED="07-WG5" ;;
+    "WG4") WORKING_GROUP_INDEXED="08-WG4" ;;
+    "WG3") WORKING_GROUP_INDEXED="09-WG3" ;;
+    "WG2") WORKING_GROUP_INDEXED="10-WG2" ;;
+    "WG1") WORKING_GROUP_INDEXED="11-WG1" ;;
+    "TIFG") WORKING_GROUP_INDEXED="12-TIFG" ;;
+    "SuFG") WORKING_GROUP_INDEXED="13-SuFG" ;;
+    *) WORKING_GROUP_INDEXED="" ;;
+    esac
+
     echo
     echo "Processing $FILE_NAME... ($CURRENT_FILE of $TOTAL_FILES)"
 
@@ -114,7 +131,7 @@ for ENTRY in "${SORTED[@]}"; do
         echo
         echo "- View in [Reader Mode](https://simewu.com/spec-reader/pages/$WORKING_GROUP_INDEXED/$ENCODED_FILENAME)."
         echo "- Go back to [Table of Contents](../README.md)."
-        echo "- Download the [Original Document]($DOCUMENT_DOWNLOAD_LINK/$FILE_NAME)."
+        echo "- Download the [Original Document]($DOCUMENT_DOWNLOAD_LINK/$ENCODED_FILENAME)."
         echo
         echo "---"
         echo
@@ -124,7 +141,7 @@ for ENTRY in "${SORTED[@]}"; do
         echo
         echo "- View in [Reader Mode](https://simewu.com/spec-reader/pages/$WORKING_GROUP_INDEXED/$ENCODED_FILENAME)."
         echo "- Go back to [Table of Contents](../README.md)."
-        echo "- Download the [Original Document]($DOCUMENT_DOWNLOAD_LINK/$FILE_NAME)."
+        echo "- Download the [Original Document]($DOCUMENT_DOWNLOAD_LINK/$ENCODED_FILENAME)."
         echo
     } >"$TEMP_FILE"
     mv "$TEMP_FILE" "$OUTPUT_FILE_PATH"
@@ -142,10 +159,3 @@ done
 
 echo
 echo "Successfully processed $TOTAL_FILES files."
-
-cd "$SCRIPT_DIR"
-
-echo "Extracting images to their own directory..."
-./post-process/extract_images.sh
-
-echo "Successfully extracted images to their own directory."

@@ -2,7 +2,7 @@
 
 - View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.O-Cloud%20Notification%20API-v04.00.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.O-Cloud Notification API-v04.00.docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.O-Cloud%20Notification%20API-v04.00.docx).
 
 ---
 
@@ -904,4 +904,4 @@ Change History
 
 - View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.O-Cloud%20Notification%20API-v04.00.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.O-Cloud Notification API-v04.00.docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.O-Cloud%20Notification%20API-v04.00.docx).

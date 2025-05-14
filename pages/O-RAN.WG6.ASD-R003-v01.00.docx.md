@@ -372,8 +372,8 @@ Change History
 | Date | Revision | Description |
 | 2023.04.17 | 00.00.01 | Initial TS skeleton |
 |  | 00.00.02 | Editor's notes with references to clauses in O-RAN.WG6.AppLCM-Deployment-R003-v01.00 for content, and informative document reference added. |
-| 2023.08.23 | 00.00.03 | Implemented CRs:  NOK-2023.06.06-WG6-CR-ASD\_conventions (NOK-0054 rev 1)  NOK-2023.06.06-WG6-CR-ASD\_overview-02 (NOK-0055 rev 2) |
-| 2023.09.07 | 00.00.04 | Implemented CRs:  NOK-2023.06.06-WG6-CR-ASD\_application\_service\_descriptor\_clauses-v05 (NOK-0056 rev 5)  ERI-2023.06.14-WG6-CR-0015-NetworkInterfaceRealizationRequirements-v03 (ERI-0015 rev 3) |
+| 2023.08.23 | 00.00.03 | Implemented CRs:  NOK-2023.06.07-WG6-CR-ASD\_conventions (NOK-0054 rev 1)  NOK-2023.06.07-WG6-CR-ASD\_overview-02 (NOK-0055 rev 2) |
+| 2023.09.07 | 00.00.04 | Implemented CRs:  NOK-2023.06.07-WG6-CR-ASD\_application\_service\_descriptor\_clauses-v05 (NOK-0056 rev 5)  ERI-2023.06.14-WG6-CR-0015-NetworkInterfaceRealizationRequirements-v03 (ERI-0015 rev 3) |
 | 2023.10.27 | 00.00.05 | Implemented CRs:  ERI-2023.09.26-WG6-CR-0019-ASD-corrections-v04  ERI-2023.10.04-WG6-CR-0020-ASD-empty-clauses-and-cleanup-v02 |
 | 2023.11.07 | 00.00.06 | Copyright changed to 2024 |
 | 2023.11.15 | 00.00.07 | Addresses comments from Thinh at  [November 2023 WG Approval Comment Wiki - Cloudification and Orchestration Workgroup - Confluence (atlassian.net)](https://oranalliance.atlassian.net/wiki/spaces/COWG/pages/3009282058/November%2B2023%2BWG%2BApproval%2BComment%2BWiki#Application-Services-Descriptor-TS)  Implements three changes from ERI-2023.09.26-WG6-CR-0019-ASD-corrections-v04  that were missed when implementing the CR in v.00.00.05. |

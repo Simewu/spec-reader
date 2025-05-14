@@ -2,7 +2,7 @@
 
 - View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.TE%26IV-API.0-R004-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE&IV-API.0-R004-v01.00.docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE%26IV-API.0-R004-v01.00.docx).
 
 ---
 
@@ -1850,4 +1850,4 @@ Change History
 
 - View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.TE%26IV-API.0-R004-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE&IV-API.0-R004-v01.00.docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE%26IV-API.0-R004-v01.00.docx).

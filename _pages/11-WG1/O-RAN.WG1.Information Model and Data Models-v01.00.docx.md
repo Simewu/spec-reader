@@ -6,7 +6,7 @@ layout: post
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG1.Information Model and Data Models-v01.00.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx).
 
 ---
 
@@ -1096,4 +1096,4 @@ Buschkauler Weg 27, 53347 Alfter, Germany Register of Associations, Bonn VR 1123
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG1.Information Model and Data Models-v01.00.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx).

@@ -6,7 +6,7 @@ layout: post
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG6.AAL%20FEC.R004-v04.00.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG6.AAL FEC.R004-v04.00.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG6.AAL%20FEC.R004-v04.00.docx).
 
 ---
 
@@ -706,4 +706,4 @@ Change History
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG6.AAL%20FEC.R004-v04.00.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG6.AAL FEC.R004-v04.00.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG6.AAL%20FEC.R004-v04.00.docx).

@@ -2,7 +2,7 @@
 
 - View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE&IV-CIMI.0-R004-v03.00.docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx).
 
 ---
 
@@ -1387,4 +1387,4 @@ Figure A.1-2: ORAN TE&IV Cloud NF Deployment View
 
 - View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE&IV-CIMI.0-R004-v03.00.docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx).

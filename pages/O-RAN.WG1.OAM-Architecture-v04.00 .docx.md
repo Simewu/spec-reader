@@ -1,8 +1,8 @@
 ## O-RAN.WG1.OAM-Architecture-v04.00 .docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.OAM-Architecture-v04.00%20.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.OAM-Architecture-v04.00%20.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.OAM-Architecture-v04.00 .docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.OAM-Architecture-v04.00%20.docx).
 
 ---
 
@@ -2133,6 +2133,6 @@ SD -> SMO : Onboard Service Descriptor SMO -> OCM : Onboard VNF Descriptor
 1 Chapter 5.
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.OAM-Architecture-v04.00%20.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.OAM-Architecture-v04.00%20.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.OAM-Architecture-v04.00 .docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.OAM-Architecture-v04.00%20.docx).

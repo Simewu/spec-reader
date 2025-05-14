@@ -6,7 +6,7 @@ layout: post
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG3.TR.ConMit-R004-v01.00%20.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG3.TR.ConMit-R004-v01.00 .docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG3.TR.ConMit-R004-v01.00%20.docx).
 
 ---
 
@@ -1775,4 +1775,4 @@ NOTE: Solution #1 may serve as a pre-requisite for conflict resolution solutions
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG3.TR.ConMit-R004-v01.00%20.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG3.TR.ConMit-R004-v01.00 .docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG3.TR.ConMit-R004-v01.00%20.docx).

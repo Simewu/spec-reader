@@ -2,7 +2,7 @@
 
 - View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.TS.O2-GA%26P-R004-v08.01.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.TS.O2-GA&P-R004-v08.01.docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.TS.O2-GA%26P-R004-v08.01.docx).
 
 ---
 
@@ -1504,4 +1504,4 @@ These O-Cloud capabilities include, non-exhaustively:
 
 - View in [Reader Mode](https://simewu.com/spec-reader/pages/06-WG6/O-RAN.WG6.TS.O2-GA%26P-R004-v08.01.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.TS.O2-GA&P-R004-v08.01.docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG6.TS.O2-GA%26P-R004-v08.01.docx).

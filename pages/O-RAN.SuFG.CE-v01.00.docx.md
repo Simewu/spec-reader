@@ -1,6 +1,6 @@
 ## O-RAN.SuFG.CE-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.SuFG.CE-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/13-SuFG/O-RAN.SuFG.CE-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.SuFG.CE-v01.00.docx).
 
@@ -410,6 +410,6 @@ Reduction of environmental impact through circular economy
 |  |  |  |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/01-WG11/O-RAN.SuFG.CE-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/13-SuFG/O-RAN.SuFG.CE-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.SuFG.CE-v01.00.docx).

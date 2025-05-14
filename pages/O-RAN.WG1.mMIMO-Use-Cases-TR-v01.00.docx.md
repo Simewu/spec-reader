@@ -1,6 +1,6 @@
 ## O-RAN.WG1.mMIMO-Use-Cases-TR-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.mMIMO-Use-Cases-TR-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.mMIMO-Use-Cases-TR-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.mMIMO-Use-Cases-TR-v01.00.docx).
 
@@ -4883,6 +4883,6 @@ Table 6.2.3.1-1.
 21. force and effect.
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.mMIMO-Use-Cases-TR-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.mMIMO-Use-Cases-TR-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.mMIMO-Use-Cases-TR-v01.00.docx).

@@ -1,8 +1,8 @@
 ## O-RAN.WG1.Information Model and Data Models-v01.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.Information Model and Data Models-v01.00.docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx).
 
 ---
 
@@ -1037,6 +1037,6 @@ Buschkauler Weg 27, 53347 Alfter, Germany Register of Associations, Bonn VR 1123
 20. same shall be and remain in full force and effect.
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.Information Model and Data Models-v01.00.docx).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.Information%20Model%20and%20Data%20Models-v01.00.docx).

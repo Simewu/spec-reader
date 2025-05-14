@@ -6,7 +6,7 @@ layout: post
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG6.TS.O2-GA%26P-R004-v08.01.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG6.TS.O2-GA&P-R004-v08.01.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG6.TS.O2-GA%26P-R004-v08.01.docx).
 
 ---
 
@@ -1541,4 +1541,4 @@ These O-Cloud capabilities include, non-exhaustively:
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG6.TS.O2-GA%26P-R004-v08.01.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG6.TS.O2-GA&P-R004-v08.01.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG6.TS.O2-GA%26P-R004-v08.01.docx).

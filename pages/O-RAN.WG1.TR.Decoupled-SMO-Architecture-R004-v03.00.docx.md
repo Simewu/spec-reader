@@ -1,6 +1,6 @@
 ## O-RAN.WG1.TR.Decoupled-SMO-Architecture-R004-v03.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.TR.Decoupled-SMO-Architecture-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.TR.Decoupled-SMO-Architecture-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.TR.Decoupled-SMO-Architecture-R004-v03.00.docx).
 
@@ -1962,6 +1962,6 @@ Annex: Change History
 | 2024-07-10 | V02.00.01 | Updated the SMO release title and file naming, from R003 to R004 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.TR.Decoupled-SMO-Architecture-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.TR.Decoupled-SMO-Architecture-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.TR.Decoupled-SMO-Architecture-R004-v03.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG1.TR.Use-Cases-Analysis-Report-R004-v16.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.TR.Use-Cases-Analysis-Report-R004-v16.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.TR.Use-Cases-Analysis-Report-R004-v16.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.TR.Use-Cases-Analysis-Report-R004-v16.00.docx).
 
@@ -2483,6 +2483,6 @@ Change history/Change request (history)
 | 2024.12.06 | 16.00 | Final version 16.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.TR.Use-Cases-Analysis-Report-R004-v16.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.TR.Use-Cases-Analysis-Report-R004-v16.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.TR.Use-Cases-Analysis-Report-R004-v16.00.docx).

@@ -4,9 +4,9 @@ title: Table of Contents
 permalink: /
 ---
 
-This application is hosted at [simewu.github.io/spec-reader](https://simewu.github.io/spec-reader), and enables the browsing of the latest publicly-available O-RAN Alliance specifications converted into GitHub Markdown. The links below enable browsing the specification documents using this reader web app, enabling the adjustment of font size, font, theme color, and hiding of the navigation bar for focus mode.
+This application is hosted at [simewu.github.io/spec-reader](https://simewu.github.io/spec-reader), and enables browsing of the latest publicly-available O-RAN Alliance specifications in Markdown. The links below allow browsing the specification documents using this reader web app (supporting the adjustment of font size, font, theme color, and toggling of the navigation bar for focus mode).
 
-- Specifications last updated: `4/24/2025`
+- Specifications last updated: `5/12/2025`
 
 ## WG11: Security Work Group
 
@@ -192,3 +192,5 @@ This application is hosted at [simewu.github.io/spec-reader](https://simewu.gith
 ## SuFG: Sustainability Focus Group
 
 - [O-RAN.SuFG.CE-v01.00.docx.md]({{site.baseurl}}/pages/13-SuFG/O-RAN.SuFG.CE-v01.00.docx/)
+- [O-RAN.SuFG.TR.NES-Analysis-R004-v01.01.docx.md]({{site.baseurl}}/pages/13-SuFG/O-RAN.SuFG.TR.NES-Analysis-R004-v01.01.docx/)
+

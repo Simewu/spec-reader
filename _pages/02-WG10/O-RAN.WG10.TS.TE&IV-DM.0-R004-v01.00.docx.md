@@ -6,7 +6,7 @@ layout: post
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG10.TS.TE%26IV-DM.0-R004-v01.00.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.TE&IV-DM.0-R004-v01.00.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.TE%26IV-DM.0-R004-v01.00.docx).
 
 ---
 
@@ -531,4 +531,4 @@ description "Identity of the O-RU as discovered from the source domain based on 
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG10.TS.TE%26IV-DM.0-R004-v01.00.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.TE&IV-DM.0-R004-v01.00.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.TE%26IV-DM.0-R004-v01.00.docx).

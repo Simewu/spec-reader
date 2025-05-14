@@ -6,7 +6,7 @@ layout: post
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.0-R004-v10.00.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.Information Model and Data Models.0-R004-v10.00.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.0-R004-v10.00.docx).
 
 ---
 
@@ -1212,4 +1212,4 @@ The following table shows data models that are of interest and being considered 
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.0-R004-v10.00.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.Information Model and Data Models.0-R004-v10.00.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.0-R004-v10.00.docx).

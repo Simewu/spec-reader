@@ -6,7 +6,7 @@ layout: post
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.TE&IV-CIMI.0-R004-v03.00.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx).
 
 ---
 
@@ -1533,4 +1533,4 @@ Figure A.1-2: ORAN TE&IV Cloud NF Deployment View
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.TE&IV-CIMI.0-R004-v03.00.docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.TE%26IV-CIMI.0-R004-v03.00.docx).

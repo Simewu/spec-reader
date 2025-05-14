@@ -1,8 +1,9 @@
 # Web App for O-RAN Specification Reading
 
-This application is hosted at [simewu.github.io/spec-reader](https://simewu.github.io/spec-reader), and enables the browsing of the latest publicly-available O-RAN Alliance specifications converted into GitHub Markdown. Additionally, the links below enable browsing the specification documents without having to leave GitHub.
 
-- Specifications last updated: `4/24/2025`
+This application is hosted at [simewu.github.io/spec-reader](https://simewu.github.io/spec-reader), and enables browsing of the latest publicly-available O-RAN Alliance specifications in Markdown. Additionally, the links below allow browsing the specification documents without having to leave GitHub.
+
+- Specifications last updated: `5/12/2025`
 
 ## WG11: Security Work Group
 
@@ -188,6 +189,7 @@ This application is hosted at [simewu.github.io/spec-reader](https://simewu.gith
 ## SuFG: Sustainability Focus Group
 
 - [O-RAN.SuFG.CE-v01.00.docx.md](./pages/O-RAN.SuFG.CE-v01.00.docx.md)
+- [O-RAN.SuFG.TR.NES-Analysis-R004-v01.01.docx.md](./pages/O-RAN.SuFG.TR.NES-Analysis-R004-v01.01.docx.md)
 
 ---
 

@@ -1,6 +1,6 @@
 ## O-RAN.WG1.Network-Energy-Savings-Technical-Report-R003-v02.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.Network-Energy-Savings-Technical-Report-R003-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.Network-Energy-Savings-Technical-Report-R003-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.Network-Energy-Savings-Technical-Report-R003-v02.00.docx).
 
@@ -2853,6 +2853,6 @@ Within the 3GPP Rel.18 study item on Network Energy Savings for NR, the followin
 |  |  |  |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.Network-Energy-Savings-Technical-Report-R003-v02.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.Network-Energy-Savings-Technical-Report-R003-v02.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.Network-Energy-Savings-Technical-Report-R003-v02.00.docx).

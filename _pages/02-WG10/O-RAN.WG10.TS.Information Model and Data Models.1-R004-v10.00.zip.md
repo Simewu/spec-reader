@@ -6,7 +6,7 @@ layout: post
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.1-R004-v10.00.zip.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.Information Model and Data Models.1-R004-v10.00.zip).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.1-R004-v10.00.zip).
 
 ---
 
@@ -654,4 +654,4 @@ module o-ran-common-yang-types {
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.1-R004-v10.00.zip.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.Information Model and Data Models.1-R004-v10.00.zip).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.1-R004-v10.00.zip).

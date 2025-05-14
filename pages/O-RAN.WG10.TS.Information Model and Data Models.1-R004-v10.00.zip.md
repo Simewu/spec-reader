@@ -2,7 +2,7 @@
 
 - View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.1-R004-v10.00.zip).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.Information Model and Data Models.1-R004-v10.00.zip).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.1-R004-v10.00.zip).
 
 ---
 
@@ -641,4 +641,4 @@ module o-ran-common-yang-types {
 
 - View in [Reader Mode](https://simewu.com/spec-reader/pages/02-WG10/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.1-R004-v10.00.zip).
 - Go back to [Table of Contents](../README.md).
-- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.Information Model and Data Models.1-R004-v10.00.zip).
+- Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG10.TS.Information%20Model%20and%20Data%20Models.1-R004-v10.00.zip).

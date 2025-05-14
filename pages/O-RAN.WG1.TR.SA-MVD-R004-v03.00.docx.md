@@ -1,6 +1,6 @@
 ## O-RAN.WG1.TR.SA-MVD-R004-v03.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.TR.SA-MVD-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.TR.SA-MVD-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.TR.SA-MVD-R004-v03.00.docx).
 
@@ -1102,6 +1102,6 @@ The decision tree represents key considerations for an MNO to choose an optimal 
 | 2024-07-26 | 3.00 | Document approved by WG1. |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.TR.SA-MVD-R004-v03.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.TR.SA-MVD-R004-v03.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.TR.SA-MVD-R004-v03.00.docx).

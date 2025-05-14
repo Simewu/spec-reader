@@ -6,7 +6,7 @@ layout: post
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG1.OAM-Architecture-v04.00%20.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG1.OAM-Architecture-v04.00 .docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG1.OAM-Architecture-v04.00%20.docx).
 
 ---
 
@@ -2216,4 +2216,4 @@ SD -> SMO : Onboard Service Descriptor SMO -> OCM : Onboard VNF Descriptor
 
 - View in [GitHub Mode]({{site.github_page_url}}/O-RAN.WG1.OAM-Architecture-v04.00%20.docx.md).
 - Go back to [Table of Contents]({{site.baseurl}}/).
-- Download the [Original Document]({{site.download_url}}/O-RAN.WG1.OAM-Architecture-v04.00 .docx).
+- Download the [Original Document]({{site.download_url}}/O-RAN.WG1.OAM-Architecture-v04.00%20.docx).

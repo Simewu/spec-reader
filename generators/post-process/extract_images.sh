@@ -28,7 +28,9 @@ if [ ! -d "$OUTPUT_IMG_DIR" ]; then
     mkdir -p "$OUTPUT_IMG_DIR"
 fi
 
-rm -rf "$OUTPUT_MARKDOWN_DIR"
+if [ "$INPUT_MARKDOWN_DIR" != "$OUTPUT_MARKDOWN_DIR" ]; then
+    rm -rf "$OUTPUT_MARKDOWN_DIR"
+fi
 if [ ! -d "$OUTPUT_MARKDOWN_DIR" ]; then
     echo "Creating '$OUTPUT_MARKDOWN_DIR' directory..."
     mkdir -p "$OUTPUT_MARKDOWN_DIR"
@@ -57,7 +59,11 @@ for DOC_NAME in "$INPUT_MARKDOWN_DIR"/*.md; do
     echo "Processing $DOC_NAME..."
 
     OUTPUT_DOC_NAME="$OUTPUT_MARKDOWN_DIR/$(basename "$DOC_NAME")"
-    cp "$DOC_NAME" "$OUTPUT_DOC_NAME"
+    if [ "$INPUT_MARKDOWN_DIR" != "$OUTPUT_MARKDOWN_DIR" ]; then
+        cp "$DOC_NAME" "$OUTPUT_DOC_NAME"
+    else
+        OUTPUT_DOC_NAME="$DOC_NAME"
+    fi
 
     # Find all data URIs in the Markdown file
     mapfile -t URIS < <(

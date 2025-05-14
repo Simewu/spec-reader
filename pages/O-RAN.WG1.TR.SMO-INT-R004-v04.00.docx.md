@@ -1,6 +1,6 @@
 ## O-RAN.WG1.TR.SMO-INT-R004-v04.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.TR.SMO-INT-R004-v04.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.TR.SMO-INT-R004-v04.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.TR.SMO-INT-R004-v04.00.docx).
 
@@ -914,6 +914,6 @@ Some recommendations for the next level of details of the SMO intent-driven mana
 | 2024-11-18 | 03.00.02 | Incorporated last comments from WG approval: [here](https://oranalliance.atlassian.net/wiki/spaces/UCOA/pages/3661856770/Comments%2Bon%2BSMO%2BIntents-driven%2BManagement%2BTR%2Bv03.00.xx) towards v04.00 |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.TR.SMO-INT-R004-v04.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.TR.SMO-INT-R004-v04.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.TR.SMO-INT-R004-v04.00.docx).

@@ -1,6 +1,6 @@
 ## O-RAN.WG1.TS.OAD-R004-v13.00.docx
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.TS.OAD-R004-v13.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.TS.OAD-R004-v13.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.TS.OAD-R004-v13.00.docx).
 
@@ -1134,6 +1134,6 @@ Change History
 | 2024.12.02 | 13.00 | * Add Release 18 as the default 3GPP reference. * Include high-level concepts of Decouple SMO TR. * Remove RRM terminology to avoid potential conflict with 3GPP specifications. * Clarify SMO southbound interfaces for FCAPS support in both hierarchical and hybrid models. * Include the example of Non-RT RIC SMOF consisting of rApps and A1 related SMOSs. * State that the O2 interface has deployment and infrastructure management services. * Add "Non-RT RIC" sub-clause within clause "5.3.1 SMO (Service Management and Orchestration)". |
 ---
 
-- View in [Reader Mode](https://simewu.com/spec-reader/pages/12-WG1/O-RAN.WG1.TS.OAD-R004-v13.00.docx).
+- View in [Reader Mode](https://simewu.com/spec-reader/pages/11-WG1/O-RAN.WG1.TS.OAD-R004-v13.00.docx).
 - Go back to [Table of Contents](../README.md).
 - Download the [Original Document](https://github.com/Simewu/spec-reader/raw/refs/heads/main/documents/O-RAN.WG1.TS.OAD-R004-v13.00.docx).

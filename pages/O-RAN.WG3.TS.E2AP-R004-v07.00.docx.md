@@ -7887,7 +7887,7 @@ Clause 10 of 3GPP TS 36.413 [24] is applicable for the purposes of the present d
 |  |  |  |
 | 2023.05.15 | 03.01.01 | CR <NOK-2023.04.28-WG3-CR-0022-E2AP-Correction to clause 2.1-v01> approved  WG3#183 |
 | 2023.06.27 | 03.01.02 | CR <NOK-2023.05.26-WG3-CR-0024-E2AP-Critical ASN.1 correction-v01> approved  WG3#189 |
-| 2023.07.11 | 03.01.03 | CR <SAM.AO-2023.05.09-WG3-CR-0001-E2AP-E2 Nod Component Configuration-v04>  approved WG3#189 |
+| 2023.07.11 | 03.01.03 | CR <SAM.AO-2023.05.10-WG3-CR-0001-E2AP-E2 Nod Component Configuration-v04>  approved WG3#189 |
 | 2023.07.26 | 03.01.04 | Editorial corrections based on comments received during WG3 poll. |
 | 2023.07.28 | 03.01.05 | Editorial changes to align to O-RAN TS template v01.01 |
 | **2023.07.28** | **04.00** | **Clarification on E2 Node components configuration. Editorial and functional**  **corrections** |
